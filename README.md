@@ -1,35 +1,54 @@
 # Washington Land & Water Rights Research
 
-This repository contains code, documentation, and processed data for a research project examining land ownership and water rights in Washington State.
+This repository contains code, documentation, and processed data for a research project examining agricultural land, water rights, and ownership structures in Washington State.
 
-## Research Goal
+The project is being developed as a reproducible workflow using R and QGIS. The long-term goal is to connect land and water-right records to ownership entities, with a particular focus on LLC ownership and the relationships between LLCs and larger companies.
 
-The project aims to connect land parcels and water rights to their ownership entities, with a particular focus on LLC ownership. The long-term goal is to create a reproducible workflow for identifying ownership patterns across Washington State.
+## Current Research Workflow
 
-## Progress
+The project currently combines Washington parcel data with Washington Department of Ecology water-right records.
 
-### Agricultural Parcel Data
-- Imported and processed Washington parcel data in R.
-- Filtered the dataset to identify agricultural land.
-- Created a dataset containing 11,337 agricultural parcel features representing 10,427 unique parcels.
-- Began examining the attributes and geographic structure of these parcels.
+Work completed so far includes:
 
-### Washington Ecology Place of Use (POU) Data
-- Imported Washington Department of Ecology Place of Use polygon data.
-- Inspected the structure, attributes, and geometry of the POU dataset.
-- Created a smaller pilot dataset for developing and testing the workflow.
-- Exported the pilot spatial dataset as a GeoPackage for use in R and QGIS.
-- Created supporting CSV files documenting polygon attributes and the source documents.
+- Profiling and validating agricultural parcel data
+- Examining parcel identifiers, land-use codes, and duplicate parcel records
+- Sampling Washington Department of Ecology water-right tracking records
+- Examining water-right record statuses
+- Linking tracking records to Place of Use (POU) information
+- Creating a pilot POU dataset for testing the spatial workflow
+- Exporting the pilot POU polygons as a GeoPackage for use in QGIS
+- Creating a document-level queue for reviewing ownership/holder information
+- Recording provenance information for major derived outputs
 
-### R and QGIS Workflow
-- Used R to load, inspect, filter, summarize, and export spatial data.
-- Imported processed spatial data into QGIS for geographic inspection.
-- Checked feature counts, unique parcel counts, coordinate reference systems, geometry types, and relevant attributes.
-- Began developing a reproducible workflow so the analysis can later be applied to larger datasets.
+## Repository Structure
 
-## Current Stage
-
-The current stage focuses on preparing and understanding the land parcel and water-rights datasets before linking them to ownership records. The next steps will involve developing methods for identifying LLC ownership and connecting ownership information with the spatial datasets.
+```text
+Land-Research/
+│
+├── R/
+│   ├── config.R
+│   ├── 01_profile_parcels.R
+│   ├── 02_sample_water_rights.R
+│   ├── 04_link_tracking_to_place_of_use.R
+│   ├── 05_export_pou_pilot_map.R
+│   └── 06_make_holder_review_queue.R
+│
+├── data/
+│   └── derived/
+│       └── ecology_pou_pilot_29.gpkg
+│
+├── outputs/
+│   ├── parcel profiling outputs
+│   ├── Ecology tracking samples
+│   ├── POU pilot summaries
+│   ├── holder review queue
+│   └── provenance files
+│
+├── docs/
+│   ├── data_log.csv
+│   └── ownership_review_template.csv
+│
+└── README.md
 
 ## Tools
 
