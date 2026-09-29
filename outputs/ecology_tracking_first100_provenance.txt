@@ -1,0 +1,6 @@
+Retrieved UTC: 2026-09-27 03:25:08 UTC
+Query: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/10/query?where=1%3D1&outFields=OBJECTID,WR_Doc_ID,WaRecPhaseId,PartyRoleTypeCode,PersonLastOrOrganizationNM,PersonFirstNM,WaRecPrimaryNumber,PriorityDate,WaRecProcessStatusTypeCode,PurposeOfUseTypeCodes,InstantaneousQuantity,AnnualVolumeQuantity,IrrigatedAreaQuantity&returnGeometry=false&orderByFields=OBJECTID%20ASC&resultRecordCount=100&f=json
+Sample rule: first 100 rows sorted by OBJECTID, statewide; NOT random or Yakima-specific.
+Not valid for owner rankings, priority rankings, or estimates of statewide coverage.
+A party labelled Primary is not automatically a verified current legal holder.
+PriorityDate is the right priority date, not the date its listed party acquired it.

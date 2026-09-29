@@ -1,0 +1,8 @@
+measure,value
+feature_rows,11337
+distinct_county_parcel_ids,10427
+repeated_parcel_ids,740
+extra_rows_from_repeated_parcel_ids,910
+missing_parcel_ids,0
+distinct_feature_row_ids,11337
+owner_field_present,0

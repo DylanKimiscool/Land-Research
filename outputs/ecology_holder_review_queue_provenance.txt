@@ -1,0 +1,8 @@
+Created UTC: 2026-09-28 20:27:16 UTC
+Inputs: outputs/ecology_pou_pilot_document_summary.csv; outputs/ecology_pou_pilot_polygon_attributes.csv; data/derived/ecology_pou_pilot_29.gpkg
+One row per sampled document ID, not one row per polygon, right holder, or owner.
+Oldest priority dates appear first to guide review, not to rank owners.
+Tracking-table names and primary numbers require source-document review.
+A mapped place of use does not establish legal title or parcel ownership.
+Manual review columns are blank; never fill them from name resemblance alone.
+Re-running stops if the queue exists so human annotations cannot be overwritten.

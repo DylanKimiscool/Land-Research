@@ -1,0 +1,1001 @@
+"OBJECTID","WR_Doc_ID","WaRecPhaseId","PartyRoleTypeCode","PersonLastOrOrganizationNM","PersonFirstNM","WaRecPrimaryNumber","PriorityDate","WaRecProcessStatusTypeCode","PurposeOfUseTypeCodes","InstantaneousQuantity","AnnualVolumeQuantity","IrrigatedAreaQuantity"
+"129","2144627","257","Primary","Ransom","G","G3-24439","1975-04-17","Active","DS IR       ","90","27","5"
+"450","2143910","886","Primary","Carmelite Sisters Of Mary Association",,"S3-28804","1990-06-25","Inactive","DM        ","0.015","2",
+"530","2141848","1050","Primary","US Bureau Reclamation",,"G3-*03772CWRIS","1954-09-24","Active","DG        ","20","32",
+"582","2141529","1153","Primary","BYRNES E C",,"G3-*04755CWRIS","1958-01-06","Active","DS IR       ","30","12","3"
+"891","2141844","1781","Primary","ROBERTS H G",,"G3-*03761CWRIS","1954-09-09","Active","DS IR       ","80","32","8"
+"1360","2144043","2260","Primary","Dahlke","Daniel","G3-29711","1994-04-06","Inactive","IR        ","4288",,"536"
+"1513","2141217","2586","Primary","Welch","Norman","G3-*06186C","1962-02-20","Active","IR        ","92","53.75","21.5"
+"2466","2139714","4027","Primary","HARRINGTON & DNR",,"G3-00232CWRIS","1971-06-22","Active","DS IR       ","90","37.3","8"
+"2662","2139889","4435","Primary","WISE ROBERT S",,"G3-+22041CWRIS","1973-11-02","Active","DS IR       ","20","10","2"
+"2672","2139936","4458","Primary","Cozy Cove Water Association",,"G3-+22475CWRIS","1974-02-04","Active","DM        ","15","12",
+"2772","2141881","1065","Primary","GUGLIELMELLI J",,"G3-*03882CWRIS","1955-02-18","Active","DS IR       ","100","40","10"
+"2836","2141612","1195","Primary","HASTINGS GROUP SER",,"G3-*05129C","1959-02-12","Active","DM        ","40","22.4",
+"2932","2142444","1390","Primary","Huntley","D","G3-*00992","1948-09-11","Active","IR        ","250","100","25"
+"2979","2144182","1483","Primary","Pasco Heights Domestic Water Assoc Inc",,"G3-29500","1993-06-18","Active","DM ST       ","150","100",
+"3146","2141909","1813","Primary","HUDSON V H",,"G3-*03962CWRIS","1955-04-14","Active","IR        ","150","90","30"
+"3316","2140779","2166","Primary","Kagele","Richard","G3-*08421","1966-12-16","Inactive","IR        ","1100","1173","1100"
+"3816","2138303","5400","Primary","PROCTOR STEVEN",,"G3-24361C","1975-02-12","ChangeInProgress","IR        ","8000","2512.5","1005"
+"4126","2139376","5577","Primary","Graedel","Irwin","G3-01251C","1970-07-02","Inactive","IR        ","2200","2200","880"
+"4474","2144056","3148","Primary","Kalispel Tribe of Indians/Jason Connor",,"R3-29497","1993-06-22","Inactive","EN WL       ",,,
+"5424","2138368","6873","Primary","Hamlin","Warren","G3-24633C","1975-10-11","Active","IR        ","25","4.65","1"
+"5507","2136887","7038","Primary","GRAY A",,"S3-*02055CWRIS","1927-04-19","Inactive","DS IR       ","0.07",,"1"
+"5588","2138215","7201","Primary","CAMPBELL DAVID B",,"G3-25151GWRIS","1976-12-22","Active","DS FS IR      ","30","22.1","4"
+"5932","2136302","7433","Primary","PARKER O B",,"S3-*10765CWRIS","1951-10-01","Active","IR        ","2",,"125"
+"5975","2137516","7522","Primary","THALE FRANK LEO",,"G3-27454GWRIS","1983-01-28","Active","IR        ","145","11.8","3"
+"6409","2137534","7953","Primary","Seventh Day Adventist Church",,"G3-27499CWRIS","1983-03-24","Active","DM        ","75","2",
+"6564","2138805","5098","Primary","USARMY Corps Engineers",,"G3-22702CWRIS","1974-02-25","Active","DM        ","30","10",
+"6578","2138865","5128","Primary","Warden Hutterian Brethren c/o Paul Wollman",,"G3-21183C","1973-05-22","Active","IR        ","3360","1050","420"
+"6689","2138731","5350","Primary","VIGIL GERALD D",,"G3-22206CWRIS","1973-12-10","Active","DS ST IR      ","50","57.5","20"
+"6809","2136335","8300","Primary","WAGNER F E",,"S3-*10977CWRIS","1952-01-17","Active","IR        ","0.8",,"50"
+"6893","2136136","8473","Primary","COURCHAINE G",,"S3-*11818CWRIS","1952-11-05","Active","IR        ","0.6",,"45"
+"6915","2135691","8522","Primary","STEIN JOHN",,"S3-*15171JWRIS","1885-01-01","Active","IR DS ST      ","0.4",,"30"
+"7317","2137698","8878","Primary","Campbell","Thomas","G3-26713C","1980-10-29","ChangeInProgress","DM ST IR      ","200","295","72"
+"7409","2135385","9060","Primary","YOUNG H F",,"S3-*18406CWRIS","1964-03-18","Active","FS IR       ","0.11","2","0.5"
+"7962","2138246","6500","Primary","WOLF DONALD D",,"G3-24120CWRIS","1975-03-04","Active","IR        ","200","134","70"
+"7986","2137810","6546","Primary","Newport School Dist 56",,"G3-25971CWRIS","1978-06-08","Active","IR        ","70","19.25","9"
+"8153","2135230","9657","Primary","Cusick Town",,"S3-*19325C","1965-10-27","Inactive","MU        ","0.67","220",
+"8209","2133098","9774","Primary","MCCOWN E D / A M",,"S3-*57090JWRIS","1901-01-01","Active","ST        ","1",,
+"8618","2134618","10142","Primary","HIGHLEY M J",,"S3-*28225JWRIS","1884-01-01","Inactive","DS        ","0.01",,
+"8822","2136604","7311","Primary","KIMM R K",,"S3-*08045CWRIS","1947-09-30","Active","IR        ","0.5",,"30"
+"9487","2136363","7747","Primary","WISE L",,"S3-*11194CWRIS","1952-03-26","Active","IR        ","1",,"50"
+"9655","2135638","8069","Primary","ARMSTRONG H L",,"S3-*14581CWRIS","1957-11-18","Active","IR        ","0.4","80","20"
+"9689","2135780","8140","Primary","BLY D M",,"S3-*15951CWRIS","1960-03-15","Active","IR        ","0.78","260","65"
+"10132","2132235","11839","Primary","GARRISON GEORGE G",,"S3-20233CWRIS","1972-05-04","Active","DS        ","0.01","1",
+"10310","2134089","12194","Primary","Graham","W","S3-*30047J","1888-01-01","Active","IR IR       ","0.43","0","21.3"
+"11417","2133600","13039","Primary","HENTGES J",,"S3-*42010JWRIS","1905-01-01","Active","IR        ","0.493",,"37"
+"12553","2133268","13974","Primary","CAMERON A M ET AL",,"S3-*53019J","1914-01-01","Active","IR        ","0.133","40","10"
+"12939","2128972","14301","Primary","MCCROSKEY","OWEN B.","G3-001897CL","1939-01-01","Active","DG IR       ","224","88.1","2"
+"13102","2129378","14639","Primary","SCHWAB","FRED","G3-000137CL","1910-01-01","Active","DG        ","50","4",
+"13192","2129782","14822","Primary","HACHMAN SHIRLEE",,"S3-77047JWRIS","1915-06-01","Active","DS ST       ","0.02","2",
+"14190","2129150","15465","Primary","Green Meadows, Inc.",,"S3-000667CL","1916-01-01","Active","DG        ","0.01","2",
+"14199","2129190","15483","Primary","KENNETT","GEORGE","G3-000805CL","1910-06-01","Active","ST DG       ","10","2.7",
+"14543","2129747","16182","Primary","Stevens Cnty PUD 1/Darrel Hawes, Gen Mgr",,"CG3-28260","1992-10-26","Inactive","MU        ","190","100",
+"14677","2128368","16442","Primary","NORDHEIM","CARL J.","G3-003440CL","1952-06-01","Active","DG IR ST      ","15","12.02","3"
+"14947","2130675","13242","Primary","Peterson","Myron","S3-26230C","1979-04-24","ChangeInProgress","IR        ","11.5","1680","420"
+"15401","2130311","14130","Primary","BIBLE RAY L & GLADYS",,"S3-61054J","1894-01-01","Active","ST        ","0.01","1",
+"15406","2130335","14142","Primary","ELGIE R D & M C",,"S3-64006J","1903-01-01","Active","ST        ","0.12","0.12",
+"16034","2126977","17359","Primary","GREER","JOHN C. SR.","G3-011077CL","1971-09-01","Active","DG IR       ","8","1","0.4"
+"16649","2128519","15261","Primary","MCLEAN","J. WALTER","G3-004102CL","1945-01-01","Active","ST IR DG      ","100","1","10"
+"16652","2128526","15264","Primary","HOTCHKISS","CHARMAINE A.","G3-004149CL","1942-01-01","Active","DG        ","10","2",
+"16988","2125453","18385","Primary","REILLY","HARRY E.","S3-019429CL","1917-01-01","Active","ST        ","0.066","0",
+"18147","2124415","19830","Primary","WEILER","FRANK","G3-023087CL","1970-10-01","Active","DG        ","6",,
+"18530","2127937","17227","Primary","Alexander","Harry","G3-007384CL","1958-10-15","Active","ST        ","10","16",
+"18542","2127979","17247","Primary","FERRIANS","MARY L.","G3-005548CL","1910-01-01","Active","DG        ","10","1",
+"18618","2127051","17396","Primary","DEPTUCH","EDNA","G3-009308CL","1944-01-01","Active","ST DG       ","15","2",
+"18964","2123998","20593","Primary","Adams","Robert","S3-025515CL","1920-01-01","Active","ST        ","0.0022","2",
+"19130","2127703","17523","Primary","BROWN","KENNETH H.","G3-008341CL","1969-07-01","Active","DG        ","10","1",
+"19204","2127452","17665","Primary","LANEY","RICHARD A.","G3-009118CL","1965-06-01","Active","ST DM DY      ","50","10",
+"19357","2126281","17977","Primary","Slusher","Menuard F.","G3-014225CL","1972-06-14","Active","DG ST       ","10","2",
+"19399","2127359","18051","Primary","COBERLY","IVA M.","G3-008747CL","1950-01-01","Active","DG        ","10","2",
+"19626","2123283","21022","Primary","HOLM","JOHN C.","G3-029049CL","1973-04-01","Active","DG        ","15",,
+"19665","2124379","21102","Primary","SANGSTER & SANGSTER",,"S3-025084CL","1946-04-01","Active","ST        ","0.001","1",
+"19917","2123762","21607","Primary","PORT","DAVID C.","G3-026529CL","1970-05-15","Active","DG IR       ","1","1.6","12"
+"20108","2125793","18556","Primary","MOSS","MANUEL","G3-016357CL","1966-07-01","Active","IR ST DG      ","12","6","1"
+"20163","2126735","18665","Primary","YELLOWSTONE PIPELINE CO.",,"G3-011850CL","1962-10-01","Active","DG        ","1","1",
+"20240","2125202","18816","Primary","EDGAR L. SMITH INC",,"S3-020527CL","1910-01-01","Active","ST        ","0.011","2",
+"20366","2126426","19068","Primary","PRATT","JESSE","G3-012692CL","1938-01-01","Active","DG        ","15","1",
+"20443","2126207","19221","Primary","JACK","RANDALL","G3-013712CL","1940-01-01","Active","ST DG       ","10","17.4",
+"20729","2120989","22322","Primary","MCDONALD","ROBERT C.","G3-040605CL",,"Active","DG        ",,,
+"20764","2122689","22397","Primary","SALSBURY","LEONARD C.","G3-032538CL",,"Active","ST DG       ",,,
+"21072","2124453","19569","Primary","SMITH","ALONZO F.","G3-023224CL","1957-01-01","Active","ST DG       ","25",,
+"21637","2121147","23239","Primary","COLLINGWOOD","MILES C.","G3-039668CL",,"Active","DG ST       ",,,
+"21799","2120464","23569","Primary","NELSON","LARS W.","S3-042354CL","1916-01-01","Inactive","ST        ","0.02","5",
+"22167","2124638","20820","Primary","AUSMAN","EARLE","S3-022273CL","1932-01-01","Active","ST        ","0.006","2.5",
+"22465","2120221","23995","Primary","LOTZ","ERNEST","G3-043307CL",,"Active","DG        ",,,
+"22696","2119591","24455","Primary","SWANSON","BYRON L.","S3-046497CL","1910-01-01","Active","DG        ","0.02","2",
+"23613","2118727","25392","Primary","BECKER JR.","FRANK","G3-050402CL",,"Active","ST        ",,,
+"23621","2118759","25407","Primary","MORGEN","WELDON L.","G3-050509CL",,"Active","DG IR       ",,,
+"23946","2123493","22590","Primary","LYTLE","DANIEL P.","G3-027589CL","1972-09-01","Active","ST DS       ","5","2",
+"24012","2122513","22723","Primary","BENEDICT","REED","G3-033577CL","1916-01-01","Active","DG IR       ","510","20","4"
+"24075","2121429","22849","Primary","STONECIPHER","JAMES D.","S3-038944CL",,"Active","DG ST       ",,,
+"24847","2121568","23480","Primary","GRIEVE","M. IRENE","G3-037764CL",,"Active","DG        ",,,
+"25497","2121812","23882","Primary","WAGNER","EARL E.","G3-036827CL","1957-06-01","Active","DG        ","15","2.5",
+"25589","2121905","24067","Primary","VONJENTZEN","WILLIAM H.","S3-037217CL",,"Active","DG        ",,,
+"25900","2117104","27281","Primary","MOELLERING","A. H.","G3-056807CL",,"Active","DG        ",,,
+"26538","2118900","25070","Primary","KENNEDY","DOUGLAS","G3-049465CL",,"Active","DG ST       ",,,
+"26691","2118700","25377","Primary","DORMAIER","EMANUEL","G3-050310CL",,"Active","ST DG       ",,,
+"26863","2114914","28316","Primary","WA DNR - ERO",,"S3-067430CL","1889-11-01","Active","ST WL RE FR     ","4","2",
+"27054","2116629","28699","Primary","BAGLEY","MARIAM H.","G3-058779CL",,"Active","DG        ",,,
+"27276","2118431","25646","Primary","COOK","MILTON R.","S3-050978CL",,"Active","ST        ",,,
+"27566","2117695","26231","Primary","TUNEM","AUDREY","G3-055432CL","1900-04-01","Active","DG        ","3.2","0",
+"27875","2114733","29442","Primary","Blanchette","Betty","G3-068450CL",,"Active","DG        ",,,
+"27963","2115954","29617","Primary","MCCLURE","N. W.","G3-062317CL",,"Active","ST DG       ",,,
+"28124","2114045","29939","Primary","BOIKO","JOE","S3-072483CL",,"Active","ST        ",,,
+"28125","2114046","29940","Primary","BOIKO","JOE","S3-072484CL",,"Active","ST        ",,,
+"28215","2119451","26617","Primary","TRENT","M. T.","G3-047749CL",,"Active","ST DG       ",,,
+"28516","2117742","27207","Primary","JOHN DONEEN FARMS","INC.","G3-053667CL",,"Active","DG ST       ",,,
+"28624","2116008","30038","Primary","LOVE","JACK L.","G3-062505CL",,"Active","DG        ",,,
+"28752","2115699","30286","Primary","MATLOCK","BERT F.","G3-065656CL",,"Active","ST IR DG      ",,,
+"28790","2115323","30360","Primary","BROWN","EVERETT","G3-065972CL",,"Active","DG ST       ",,,
+"28919","2113277","30622","Primary","KLOETSCH","DANIEL G.","G3-075581CL",,"Active","ST DG       ",,,
+"28988","2114093","30766","Primary","LOOMIS","ROYAL C.","G3-072815CL",,"Active","DG ST       ",,,
+"29059","2117851","27401","Primary","TRUE","LORENZO L.","S3-054253CL",,"Active","DG        ",,,
+"29519","2115319","30941","Primary","RICHTER","VERNON","G3-065866CL",,"Active","DG        ",,,
+"30123","2116460","28614","Primary","EARLEY","PERRY D.","G3-060299CL","1930-10-01","Active","DG ST       ","15","2",
+"31039","2116341","29548","Primary","TESKE","LORNE L.","G3-061953CL",,"Active","ST DG       ",,,
+"31262","2114155","29995","Primary","HEASTON","W. D.","G3-073084CL","1966-11-01","Active","DG        ","15","2",
+"31336","2112873","32785","Primary","DELPERDANG","MELVIN N.","S3-077676CL",,"Active","DG ST       ",,,
+"31486","2110903","33086","Primary","PINTLER","WILLIAM A","G3-089695CL",,"Active","DG IR ST      ",,,
+"32000","2113184","30575","Primary","GARMAN","JOHN M JR","G3-076982CL","1963-01-01","Active","DG        ","10","3",
+"32186","2111857","33595","Primary","RESSA","ONLAND M.","G3-084527CL",,"Active","DG        ",,,
+"32308","2110573","33841","Primary","DEERINGHOFF","WILMA","G3-092114CL","1944-01-01","Active","DG IR       ","50","50","0.5"
+"32323","2111598","33873","Primary","HORAK","MARY L.","G3-086026CL",,"Active","DG ST       ",,,
+"32437","2110272","34101","Primary","GUENZEL","KARL F","S3-092730CL",,"Active","DG        ",,,
+"32656","2115369","30967","Primary","FAIRCHILD","WALTER","G3-066200CL",,"Active","NR        ",,,
+"33361","2109676","35049","Primary","QUIRK","DAVID ESTATE","S3-095915CL",,"Active","ST        ",,,
+"33896","2113489","32097","Primary","CAIN","ORIN E.","G3-076465CL",,"Active","ST        ",,,
+"33994","2112542","32296","Primary","CRAWFORD","E. RAYMOND","G3-080616CL",,"Active","ST DG       ",,,
+"35041","2110317","33465","Primary","THAIN","RICHARD A","G3-092994CL",,"Active","ST DG IR      ",,,
+"35445","2106946","37457","Primary","THOMAS","JESSE A","G3-108803CL","1900-01-01","Active","DG        ","13","1",
+"35480","2108534","37526","Primary","SEATTLE FST NATL BK",,"G3-101294CL","1970-01-01","Active","DG        ","10","2",
+"35573","2111925","33630","Primary","GREENE","ALBERT","G3-084892CL",,"Active","DG        ",,,
+"35763","2110623","34004","Primary","QUIRK","CORNELIUIS","G3-090473CL",,"Active","ST IR DG      ",,,
+"35952","2110029","34386","Primary","SMITH","SONNY B","G3-093554CL","1973-11-01","Active","DG IR ST      ","100","132","10"
+"36141","2108034","37956","Primary","DUDDY","PAUL F","G3-103242CL","1916-01-01","Active","DG IR ST      ","50","34","12"
+"36322","2106140","38313","Primary","WESDALE LAND / LIVESTOCK",,"S3-113348CL","1915-01-01","Active","ST DG       ","0.0111","8.06",
+"36635","2109792","34848","Primary","ROBINSON","HAZEL","G3-094293CL",,"Active","ST        ",,,
+"36638","2109807","34855","Primary","LEEPER","BYRON E","G3-094377CL","1973-12-01","Active","IR DG ST      ","20","5","2"
+"36753","2109225","35091","Primary","ELLIS","JOHN G","G3-098218CL","1931-04-01","Active","ST IR       ","280","138","23"
+"36857","2109343","35288","Primary","BURKLEY","ARTHUR M","S3-096590CL","1916-01-01","Active","ST IR       ","0.02","2",
+"37229","2107382","36028","Primary","GEHRETT","LOUIS A","G3-106359CL",,"Active","IR DG       ",,,
+"37849","2105283","39552","Primary","TROUT","LEWIS","G3-117213CL","1963-07-01","Active","IR ST DG      ","30","4.5","1"
+"37891","2104917","39637","Primary","LONG LAKE LUMBER CO",,"S3-117558CL","1900-01-01","Active","ST        ","0.02","1",
+"37991","2103257","39837","Primary","PRIMMER","FRED A","G3-125969CL",,"Active","ST IR DG      ",,,
+"38204","2102740","40261","Primary","Liberty School Dist 362",,"G3-127463CL",,"Active","DG IR       ",,,
+"38403","2106725","36555","Primary","PFLUGRAD","MYRON W","G3-109924CL",,"Active","IR DG ST      ",,,
+"38744","2103670","40439","Primary","MATTSON & REISNER",,"G3-123770CL","1944-04-01","Active","IR        ","1000","880","60"
+"38941","2103102","40837","Primary","REID","PAUL H","S3-125251CL",,"Active","IR        ",,,
+"39219","2107860","37284","Primary","OWENS","ALVIN L","G3-104342CL","1934-01-01","Active","DG        ","4","2",
+"39400","2106495","37642","Primary","CALLOWAY","DAVID","G3-111136CL",,"Active","ST DG       ","40","2",
+"39452","2106706","37749","Primary","Kehl","Gary","G3-109890CL","1954-03-01","Active","ST DG       ","40","12",
+"39614","2104057","41278","Primary","BARKER","J B","G3-121375CL","1938-01-01","Active","ST        ","50","80",
+"39642","2104164","41331","Primary","POPP","DALE D","G3-122027CL","1965-07-01","Active","DG        ","10","2",
+"39981","2103952","42016","Primary","MILLER","CLYDE E","G3-122850CL","1962-02-01","Active","DM        ","10","2",
+"40296","2105773","38539","Primary","CORDILL","CLARK","S3-113564CL","1894-09-17","Active","IR        ","1","238","41"
+"40555","2101838","42264","Primary","Boise Cascade Corporation",,"S3-132918CL","1905-06-01","Active","ST FR HW      ","0.022","2",
+"41050","2105662","39151","Primary","SCHUERMAN","RUTH M","G3-114907CL",,"Active","DG ST IR      ",,,
+"41096","2105476","39240","Primary","SNODGRASS","THELMA L","G3-115933CL",,"Active","DG IR       ",,,
+"41138","2105727","39323","Primary","BARKLEY","JACK D","S3-113396CL","1962-11-01","Active","ST        ","0.02","2",
+"41259","2105325","39573","Primary","HURN","PAUL","G3-115367CL",,"Active","ST DG       ",,,
+"41647","2100811","43536","Primary","SKEEN","WALTER F","G3-137018CL",,"Active","IR DG       ",,,
+"41679","2100942","43600","Primary","MOORHEAD","TROY","G3-136096CL",,"Active","ST DG IR      ",,,
+"41808","2101706","43862","Primary","CHRISTIANSON","DAVID F","S3-134238CL","1952-05-01","Active","IR        ","0.389","116","40"
+"42123","2104318","40401","Primary","WIEDRICH","FAY","S3-120397CL","1890-01-01","Active","DG ST       ","0.044","6",
+"42418","2101216","44203","Primary","MAUGHAN","GARY","S3-135472CL","1924-05-10","Active","IR        ","0.027",,"2"
+"42752","2103487","40759","Primary","BAGLEY","ROBERT W","G3-125155CL",,"Active","IR DG ST      ",,,
+"42998","2104558","41256","Primary","EHLERS","MARSHALL C","G3-119851CL","1967-08-01","Active","DG IR       ","125","105","25"
+"43293","2098894","45025","Primary","KRAUSE","NORMAN E","G3-145847CL","1920-01-01","Active","ST DG       ","30","3",
+"43350","2100449","45144","Primary","HUDDLESTON","RALPH A","G3-137248CL",,"Active","DG ST IR      ",,,
+"43471","2100107","45383","Primary","LAMP","ROBERT H","G3-140140CL",,"Active","ST DG       ",,,
+"43541","2099110","45523","Primary","ESCURE","JOSE","S3-144856CL",,"Active","ST        ",,,
+"43687","2104203","41734","Primary","WATSON FARMS INC",,"S3-120121CL","1971-01-01","Active","ST        ","0.006","4.77",
+"43849","2104026","42053","Primary","ROSMAN","JOSEPH J","S3-121199CL","1901-01-01","Active","IR        ","1.114","231.6","57"
+"43853","2103501","42060","Primary","DIEDESCH","ERNEST","G3-125181CL",,"Active","DG        ",,,
+"43980","2101411","42316","Primary","HOFER","P E","G3-134730CL",,"Active","DG        ",,,
+"44088","2103820","42546","Primary","NORTHWAY","RAYMOND A","G3-122478CL",,"Active","IR ST DG      ",,,
+"44167","2100419","45868","Primary","MORIG","CARL W","G3-139763CL",,"Active","DG ST IR      ",,,
+"44253","2098491","46033","Primary","KUEHNE","WILLIAM G","G3-148560CL","1973-07-01","Active","IR        ","1000","770.24","100"
+"45133","2095931","46914","Primary","SMITH","JOE T","S3-162388CL","1899-01-01","Active","ST IR       ","0","0","0"
+"45292","2097855","47228","Primary","KENNEDY","BEN C","G3-152020CL",,"Active","ST IR DG      ",,,
+"45849","2101291","44242","Primary","COOPER","WILFRED T","G3-135818CL",,"Active","DG IR ST      ",,,
+"46177","2095537","48101","Primary","SMITH","W. EMMETT","S3-200081CL","1886-01-01","Active","IR        ","0.8","40","60"
+"46379","2099367","44406","Primary","SCHNEIDER","LESLIE","G3-143706CL",,"Active","ST DG IR      ",,,
+"46462","2100603","44571","Primary","SCHREIER","ROGER F","S3-138378CL",,"Active","IR DG ST      ",,,
+"46615","2099173","44898","Primary","ALMARODE","OLLIE M","G3-145210CL",,"Active","ST IR DG      ",,,
+"46699","2100293","45066","Primary","HARTING","DONALD","G3-139350CL",,"Active","IR        ",,,
+"46915","2095070","48677","Primary","RICHARDSON D A",,"G3-*01303AWRIS","1949-11-30","Inactive","IR        ","800",,"50"
+"47135","2096039","49102","Primary","MIXSON","VALJEAN","G3-160427CL",,"Active","DG IR       ",,,
+"47636","2096410","49638","Primary","ERWEN","CHRISTINE J","G3-159941CL","1954-06-01","Active","IR DG       ","0","0","3.5"
+"48232","2099460","46339","Primary","ROBB","JAMES A","G3-144388CL",,"Active","ST        ",,,
+"48289","2098143","46444","Primary","HUFF","EDWARD T","S3-151686CL","1910-01-01","Active","DG        ","0.022","4",
+"48412","2098078","46682","Primary","GEAUDREAU","DALE L","G3-151020CL","1944-01-01","Active","DG        ","10","1",
+"49207","2096800","47377","Primary","BEAN","MARVIN F","S3-157083CL","1890-01-01","Active","OT ST       ","0.2428","0.66",
+"49458","2093403","51472","Primary","Pend Oreille Cnty PUD 1",,"S3-*09854AWRIS","1950-08-23","Inactive","PO        ","11801",,
+"49987","2096937","48037","Primary","HAMMOND","ROBERT A","G3-155086CL",,"Active","IR DG ST      ",,,
+"50519","2096281","48650","Primary","FULGHUM","MARGARET I","G3-159166CL",,"Active","DG        ",,,
+"50555","2094625","48720","Primary","SCHOONOVER MARY C",,"G3-23916AWRIS","1974-11-08","Inactive","DM IR       ","2500",,"160"
+"50638","2092622","52459","Primary","WESSELER BERT E",,"G3-*02282PWRIS","1952-01-04","Inactive","DS IR       ","70","28","7"
+"50639","2092627","52460","Primary","KNOTTINGHAM E / M",,"G3-*02417PWRIS","1952-03-27","Inactive","IR DS       ","1600","1000","250"
+"50778","2092327","52733","Primary","Urquhart","J","G3-*07816PWRIS","1965-10-08","Inactive","IR DS       ","2250","2424","960"
+"50978","2095397","49137","Primary","SWIGER","KENNETH","G3-164320CL",,"Active","ST DG       ",,,
+"51027","2095063","49235","Primary","VEHRS MARY S",,"G3-*01089DWRIS","1901-01-01","Inactive","DS ST IR      ","50","20",
+"51232","2090735","53208","Primary","TERRY DEE",,"S3-*09955PWRIS","1950-10-23","Inactive","IR        ","1",,"40"
+"51665","2090864","53622","Primary","MOORE CLARENCE J",,"S3-*12536PWRIS","1953-08-27","Inactive","IR        ","0.44",,"25"
+"51736","2090614","53762","Primary","KOSCHUTZKE PERCY",,"S3-*12912PWRIS","1954-05-12","Inactive","IR DS       ","0.1",,"20"
+"52075","2092120","53985","Primary","GAU G M",,"G3-*09065PWRIS","1967-11-22","Inactive","IR        ","2000","400","200"
+"52688","2093357","50795","Primary","NEFF LYLE W",,"S3-*08139AWRIS","1947-12-01","Inactive","IR        ","1.4",,"110"
+"52828","2093951","51066","Primary","TIEMANN A D",,"G3-27851AWRIS","1984-08-01","Inactive","DS IR       ","200",,"20"
+"53240","2093341","51439","Primary","CURTIS CATTLE CO",,"S3-*17080AWRIS","1961-12-21","Inactive","IR        ","1.2",,"60"
+"53257","2093402","51471","Primary","NICHOLS RALPH R",,"S3-*09829AWRIS","1950-08-14","Inactive","DS        ","0.005",,
+"53494","2087906","55446","Primary","FREEBURG","MICHAEL","G4-301807CL",,"Active","ST DG IR      ","0","8","1.5"
+"53720","2091401","51961","Primary","Titan Storage Inc",,"G3-27060BWRIS","1981-07-17","Inactive","IR        ","50","25","10"
+"53889","2089060","55778","Primary","Moses Lake City",,"CG3-*00637C","1999-03-08","Inactive","DM        ","370","142",
+"54403","2088600","56381","Primary","ASMUSSEN","DARYL","G4-98000804CL",,"Inactive","DG ST       ","0","5.25","0"
+"54894","2088955","56916","Primary","Weber","Kevin","G3-QB0108(B)","1973-01-08","Active","IR        ","18.46","7","2"
+"55169","2088615","57015","Primary","BREUEL","KENNETH","S4-300521CL","1917-04-01","Active","DG        ","0.02","0.5","0"
+"55355","2092417","53438","Primary","STRUNTZ JOE",,"G3-*03838PWRIS","1955-01-14","Inactive","IR        ","1000","400","100"
+"55730","2086209","57696","Primary","Mt Adams Golf Club",,"G4-31498","1992-09-24","Active","DG DM IR      ","1420",,"120"
+"55914","2089938","54108","Primary","OGAN PHILIP E",,"S3-28198PWRIS","1986-07-30","Inactive","FS        ","1.5",,
+"56022","2089630","54320","Primary","Ruland G Sparks Farms LLC/Todd Sparks",,"G3-QB0083","1972-10-02","Active","IR        ","3200","840","240"
+"56328","2090584","54481","Primary","KRESHEL P A",,"S3-*21503PWRIS","1969-03-26","Inactive","DS FS       ","1","2",
+"56606","2088389","58566","Primary","GUSA","GARY","S4-300972CL","1904-05-01","Active","IR        ","0.6","20","16"
+"57843","2089570","55762","Primary","Oneel","Felix","G3-QB0585","1978-02-15","Active","IR        ","30","9.1","2.6"
+"57983","2089301","56040","Primary","Didra","Victor","G3-QB1298","1992-09-03","Inactive","IR        ","900","350","100"
+"57997","2088820","56069","Primary","MILLER","DEAN","S4-98000199CL",,"Inactive","ST        ","0.05","0.51","0"
+"58063","2083929","60177","Primary","DUCHSHERER M",,"G4-*02900CWRIS","1952-12-29","Active","DS IR       ","60","48","15"
+"58718","2082265","61044","Primary","BAUGHER RALPH E",,"G4-24176CWRIS","1976-02-06","Active","IR        ","66","53","12.75"
+"58931","2088654","57032","Primary","Kennewick City *",,"S4-301518CL","1906-07-01","Inactive","IR DG MU      ","100","6000","800"
+"59018","2087171","57209","Primary","Nob Hill Water Association *",,"CG4-GWC2819-A","2001-11-14","Inactive","DM        ",,,
+"59062","2086813","57298","Primary","West","Michiel","G4-32132","1994-07-25","Active","IR DM       ","60",,"5"
+"59328","2086766","57862","Primary","Enyeart","Karl","CG4-28810C@1","2003-02-24","Inactive","IR        ","501","110","120"
+"59573","2086029","58350","Primary","Baser","Donald","G4-30932","1991-09-06","Active","DS DY       ","50",,
+"59728","2088087","58679","Primary","Gamble Land & Timber Ltd",,"G4-301739CL","1917-01-01","Active","ST        ","0","9.6","0"
+"59833","2085905","58887","Primary","Bear Creek Ranch",,"G4-30582","1991-01-31","Active","DM        ","21",,
+"59986","2082015","61326","Primary","CHILDERS LOUIS R",,"G4-24367CWRIS","1976-08-05","Active","IR        ","300","198","50"
+"60199","2082280","61753","Primary","BLAIR BEN",,"G4-24225CWRIS","1976-03-11","Active","DM        ","15","4",
+"60533","2085243","59389","Primary","Chelan City",,"CS4-SWC4511","1994-05-27","Inactive","IR        ","0.34",,"25"
+"61309","2083925","60498","Primary","WADDELL A",,"G4-*02806CWRIS","1952-11-05","Inactive","IR        ",,,
+"61379","2084896","60636","Primary","Cousineau","Edgar","G4-32403","1995-09-14","Active","IR        ","150",,"20"
+"61442","2081736","62443","Primary","SHEARER DESMOND",,"G4-25186CWRIS","1977-05-13","Active","DS IR       ","50","42","15"
+"61561","2081142","62673","Primary","Shearer Orchards Inc",,"G4-26851CWRIS","1980-06-27","Active","DS IR       ","100","13","20"
+"61625","2083142","62794","Primary","ALPINE ACRES INC",,"G4-*08555CWRIS","1967-02-20","Active","DM        ","32","33",
+"61638","2082663","62818","Primary","PRIDE PAK FOODS INC",,"G4-22826CWRIS","1974-04-02","Active","CI        ","575","920",
+"61690","2081288","62918","Primary","HARTSHORN JOHN",,"G4-26273CWRIS","1979-06-18","Active","IR        ","300","195","38"
+"61736","2080947","63012","Primary","GEMMELL FRANK N",,"G4-27319GWRIS","1980-11-06","Active","IR        ","30","30","10"
+"61956","2082850","63449","Primary","BILLINGSLEY R E",,"G4-01180CWRIS","1970-10-27","Active","IR        ","2000","888","222"
+"61972","2082903","63476","Primary","AULT JAY D & RUTH",,"G4-01291CWRIS","1968-12-06","Active","DS        ","10","1",
+"62544","2080044","64625","Primary","Ventzke Albert",,"S4-*00363APCWRIS","1920-01-08","Active","DS IR       ","1.2",,"70"
+"62910","2082190","61006","Primary","BEEGHLY FLOYD E",,"G4-23996CWRIS","1975-06-25","Active","DM        ","120","75",
+"62937","2082300","61061","Primary","SUN MEADOW FARM INC",,"G4-24263CWRIS","1976-04-21","Active","DS ST IR      ","60","57","10"
+"63007","2079944","65095","Primary","LEWIS L M",,"S4-*02856CWRIS","1930-02-21","Active","DS IR       ","0.85",,"42.5"
+"63061","2080465","65203","Primary","RHODES NORMAN E",,"G4-29278GWRIS","1987-05-08","Active","IR        ","30","20","5"
+"63090","2080055","65260","Primary","Cashmere City *",,"S4-*00613SWRIS","1908-01-01","Active","MU        ","0.89","224",
+"64108","2077360","66393","Primary","MURPHY M A",,"S4-23454CWRIS","1974-08-22","Active","IR        ","0.12","30.7","6"
+"64342","2081377","62528","Primary","PERROTTI STEPHEN L",,"G4-25709CWRIS","1978-01-24","Active","DM        ","28","3",
+"64953","2078772","67171","Primary","GRAHAM L E",,"S4-*12688CWRIS","1953-12-11","Active","DS IR       ","0.05",,"3"
+"65217","2080360","63389","Primary","THORSEN REBECCA",,"G4-73077JWRIS","1974-04-10","Active","DS ST       ","20","2",
+"65262","2077543","67340","Primary","SPOKANE & ESTRN TRUS",,"S4-*38005JWRIS","1884-01-01","Active","IR        ","0.12","42","7"
+"65395","2077284","67615","Primary","WIEMER EMORY L",,"S4-23126CWRIS","1974-06-14","Active","DS        ","0.02","1",
+"65486","2078459","67805","Primary","FITZGERALD D E",,"S4-*17771CWRIS","1963-03-06","Active","IR        ","0.32","88","22"
+"65952","2082696","63981","Primary","EBERLE TED E",,"G4-22893CWRIS","1974-04-15","ChangeInProgress","IR        ","400","156","120"
+"66186","2077059","68302","Primary","US Dept Interior/Bureau Land Management",,"S4-25467CWRIS","1977-08-12","Active","ST        ","0.03","2",
+"66330","2076207","68587","Primary","BOTTOMS MARGARET",,"S4-28921GWRIS","1986-05-01","Active","IR        ","0.01","0.64","0.16"
+"66499","2074319","68925","Primary","FERGUSON","MARIE G.","S4-003628CL",,"Inactive","ST IR       ",,,"24"
+"66522","2074404","68967","Primary","LINDEN","FRANK","S4-003872CL","1920-01-01","Active","ST        ","5","1",
+"67282","2073932","69577","Primary","LAPIERRE","LESTER","G4-005351CL","1940-01-01","Active","DG ST       ","3.4","3",
+"67960","2074102","70035","Primary","NAUGHT","FRANCIS","G4-004405CL","1957-01-01","Active","ST        ","2","0.2",
+"68007","4242201","70130","Primary","Whitworth Water District 2",,"CG3-*05427C","2005-04-05","Inactive","MU        ","180","49",
+"68759","2073105","71184","Primary","WARRELL","THOMAS J","S4-008866CL",,"Inactive","IR        ",,,"78"
+"69062","2076827","67058","Primary","FISHER GLADYS R",,"S4-26112GWRIS","1979-01-25","Active","IR        ","0.3","77","15"
+"69133","2075156","71474","Primary","Champoux Vineyards LLC",,"S4-30053(C)","1989-08-11","Active","IR        ","4.728","772","193"
+"69942","2077055","67900","Primary","MCGRATH DON ET AL",,"S4-25435CWRIS","1977-08-04","Active","ST FS       ","0.06","0.17",
+"69989","2070746","72285","Primary","WN ST DEPT NAT RSO",,"S4-021745CL","1889-11-11","Active","ST        ","0.01","0.3",
+"70092","2072428","72494","Primary","MILLER","JAMES H.","S4-013540CL","1925-01-01","Active","ST        ","5","1",
+"70157","2070865","72624","Primary","CRANDALL","ROBERT","G4-022203CL","1936-04-15","Active","ST IR DG      ","5","2","2"
+"70321","2076018","68212","Primary","USFS Okanogan",,"S4-29386CWRIS","1987-08-05","Active","ST        ","0.01","0.6",
+"70482","2070140","72820","Primary","JACOBSON","L. B.","G4-024594CL","1946-01-01","Active","DG        ","5","1",
+"70528","2070311","72909","Primary","WN ST DEPT NAT RSO",,"S4-024105CL","1870-03-01","Active","ST        ","0.01","1",
+"70580","2072425","73018","Primary","MILLER","JAMES H.","S4-013537CL","1925-01-01","Active","ST        ","20","4",
+"70728","2072190","73304","Primary","FUNK","DOROTHY E.","G4-015076CL","1929-01-01","Active","DG        ","10","2",
+"71541","2069646","74050","Primary","SECONDO","DONNA L.","G4-025631CL","1953-06-01","Active","IR DG       ","18","5","2"
+"72401","2070978","74877","Primary","WILSON","KENZEL R.","G4-021135CL","1922-04-01","Active","DG        ","5",,
+"72904","2075311","70697","Primary","Fields","Gary","S4-32478","1996-09-12","Active","FR IR       ","0.1",,"1"
+"73693","2073299","71391","Primary","POWERS","J. L.","G4-007999CL","1970-07-01","Active","ST IR DG      ","175","70","17"
+"74833","2070577","72775","Primary","ELIZABETH FARMS INC.",,"G4-023122CL","2002-06-28","Active","DG        ","10","2",
+"74854","2070659","72815","Primary","3 Bar G Ranch Inc*",,"G4-023570CL","1971-06-01","Active","IR ST       ","1","730","30"
+"75734","2071569","73671","Primary","HUNT","QUENTIN","G4-017161CL","1957-06-01","Active","DG        ","17","2",
+"76018","2067848","78475","Primary","WIMAN","RAYMOND V","G4-035870CL","1973-08-10","Active","DG        ",,,
+"76194","2066127","78818","Primary","TYLER","CHARLES S","G4-046769CL",,"Active","DG        ",,,
+"76597","2069372","74486","Primary","THOMAS","JAMES H.","S4-026208CL",,"Inactive","ST IR       ",,,"25"
+"76986","2063030","79523","Primary","MORRIER","ALBERT R.","G4-062187CL",,"Active","DG        ",,,
+"77581","2071451","75572","Primary","WALTON","NEIL","S4-019158CL","1944-03-01","Active","ST DG       ","5","2",
+"77669","2065055","79998","Primary","VANHORN","HOWARD L.","G4-051900CL","1974-01-06","Active","DG        ",,,
+"77726","2067045","80108","Primary","BARNES","WALTER H.","G4-041370CL",,"Active","DG        ","10","0.5",
+"77842","2063062","80334","Primary","VANTASSEL","JOHN F.","G4-062357CL",,"Active","DG        ",,,
+"77916","2064831","80480","Primary","VIEBROCK","CARL H.","G4-053075CL",,"Active","DG IR       ",,,"2"
+"78193","2067139","75905","Primary","MCWHORTER","MARK","S4-039581CL",,"Inactive","ST        ",,,
+"78704","2062211","81148","Primary","HALL","CLARENCE G.","G4-065230CL",,"Active","DG        ",,,
+"79202","2068137","76589","Primary","PILOT WHEEL RANCH",,"S4-034680CL","1906-01-01","Active","ST        ","6",,
+"79270","2066657","76715","Primary","PEASE","EDITH F.","G4-044931CL",,"Active","DG        ",,,
+"79377","2066264","76924","Primary","MULLENNEIX","WESLEY","G4-045207CL","1973-11-05","Active","DG        ",,,
+"79831","2063981","82521","Primary","KINDER","JOY R.","G4-058047CL","2002-06-28","Active","ST DG       ",,,
+"80203","2066035","77671","Primary","MELTON","WILLIAM L.","G4-046182CL",,"Active","DG        ",,,
+"81526","2060844","84117","Primary","BLANKENSHIP","WALTER V.","G4-072573CL","2002-06-28","Active","DG        ","50","1",
+"82243","2064946","79943","Primary","RANSIER","R. J.","G4-051752CL",,"Active","DG        ",,,
+"82408","2064284","80281","Primary","TRUCANO","JAMES S.","S4-055208CL","1974-01-18","Active","DG        ",,,
+"82468","2062682","80408","Primary","CARLSON","EUGENE E.","G4-062585CL",,"Active","ST DG       ",,,
+"82846","2062507","80725","Primary","WN. ST. DEPT. NAT. RSO.",,"G4-063675CL","1970-12-01","Active","DG        ","11","1",
+"82944","2064364","80918","Primary","LEWIS","CLAUDE R.","G4-055638CL","1974-06-23","Active","DG ST       ",,,
+"82946","2064373","80923","Primary","SHEARER","GLEN M.","G4-055670CL","2002-06-28","Active","DG        ",,,
+"82947","2064374","80924","Primary","SHEARER","GLEN M.","G4-055671CL","2002-06-28","Active","DG        ",,,
+"82991","2062454","81008","Primary","WN. ST. DEPT. NAT. RSO.",,"S4-064180CL","1889-11-01","Active","ST        ","0.02","1","0"
+"83309","2060254","85865","Primary","COFFIN","B. HOWARD","G4-073725CL","1970-09-01","Active","DG        ","20","2",
+"83327","2059792","85902","Primary","MORIARTY","LINDA D.","G4-075700CL","1961-05-01","Active","DG        ","7.5","1",
+"83330","2059802","85907","Primary","MARTS","WILLIAM H.","G4-075721CL",,"Active","DG        ",,,
+"83591","2064368","81300","Primary","MICHAELS","HARRY L.","G4-055665CL","2002-06-28","Active","ST DG       ","14","3",
+"83673","2062018","81456","Primary","GEBHARDT","WILLIAM","G4-066426CL",,"Active","ST DG       ",,,
+"84442","2058086","87214","Primary","HANSON","GORDON","G4-084690CL","1944-01-01","Active","DG        ","10",,
+"84539","2057201","87405","Primary","NORTH VALLEY LAND CO. INC",,"G4-088084CL","1931-01-01","Active","DG        ","13","1",
+"84685","2064004","82125","Primary","KINSEL","WILLIAM C.","G4-055958CL","1957-06-01","Active","DG        ","12","2",
+"85076","2063871","82465","Primary","HUBERDEAU","WILFRED L.","G4-057517CL","1974-01-23","Active","DG        ",,,
+"85163","2063685","82638","Primary","FORBES","THEODORE R.","G4-058973CL",,"Active","ST DG       ",,,
+"85558","2063622","82973","Primary","STEVENSON","RICHARD L.","S4-058600CL","1892-10-26","Active","DG        ","8",,
+"85938","2056343","88882","Primary","BONHOLZER","JAMES R","G4-093129CL","1974-05-20","Active","DG        ",,,
+"86363","2054426","89268","Primary","GLESSNER","HAROLD E","G4-099570CL",,"Active","ST        ",,,
+"86489","2063276","83938","Primary","LARSEN","H. B.","S4-061055CL","1943-12-01","Active","DG        ","10","6",
+"86582","2060838","84115","Primary","MAULDEN","JAMES F.","G4-072565CL","1974-03-30","Active","DG        ",,,
+"86746","2054842","89577","Primary","Metcalf","Edwards","S4-097643CL","1917-01-01","InTrustTemp","IR ST       ","2","450","110"
+"86960","2056148","90022","Primary","EVANS","WILLIAM T","S4-093905CL",,"Inactive","ST        ",,,
+"87266","2060664","84597","Primary","EDSON","ROY","S4-073521CL",,"Inactive","ST IR       ",,,"40"
+"87355","2060482","84775","Primary","ANNA SVATONSKY TRUST",,"G4-072778CL","1916-01-01","Active","ST        ","25","2",
+"88784","2053019","91439","Primary","AYERS","ELMER","G4-105867CL",,"Active","IR DG       ",,,
+"89106","2059237","86476","Primary","WATKINS","L. A.","G4-080452CL",,"Active","DG        ",,,"0"
+"89166","2058057","86598","Primary","HENSON","CLAUDE C.","G4-084572CL",,"Active","DG        ",,,
+"90231","2056672","87852","Primary","MARSH","KEITH V","G4-090036CL",,"Active","ST DG IR      ",,,
+"90592","2051766","93259","Primary","CHILDS","ROBERTA B","G4-111934CL","1883-05-01","Active","ST        ","5","2",
+"90725","2049636","93528","Primary","DAHLQUIST","NORMAN R","G4-118965CL","1922-01-01","Active","DG        ","10","2",
+"90766","2050673","93606","Primary","AHOLA","JENNIE","S4-116811CL","1930-04-01","Active","ST        ","0.125",,
+"90811","2049686","93691","Primary","WALLIS","DOUG","G4-119150CL","1920-01-01","Active","DG ST       ","4","1","0"
+"91223","2056400","88910","Primary","SWANSON","VIC","G4-093356CL","1943-05-01","Active","IR        ","60","60","1"
+"91622","2051059","94406","Primary","HULSE","BEVERLY J","G4-114678CL","1974-06-20","Active","DG ST IR      ",,,
+"91637","2051110","94431","Primary","WOODS","LYLE","S4-115530CL","1900-01-01","Active","ST        ","2","5",
+"91713","2049340","94589","Primary","N N EATON / SONS",,"S4-120711CL",,"Inactive","ST        ",,,
+"91716","2049355","94596","Primary","N N EATON / SONS",,"S4-120726CL",,"Inactive","ST        ",,,
+"92198","2056040","89968","Primary","Van de Graaf Jr","Dick","G4-093578CL","1973-01-01","Active","ST IR       ","1000","200","30"
+"92352","2049178","94949","Primary","ANDERSON","JAMES B","G4-120297CL","1967-09-01","Active","DG IR       ","10","9","2"
+"92508","2048952","95245","Primary","BUOB","HAVEN E","G4-120854CL",,"Active","ST        ",,,
+"92671","2050107","95571","Primary","HARWOOD","JOE","G4-117683CL","1974-06-24","Active","DG IR ST      ",,,
+"92690","2050183","95610","Primary","BRUNS","ELMER","S4-117919CL","1900-07-01","Active","DG        ","1","1",
+"92865","2053998","90378","Primary","BURNS","JAMES A","G4-101733CL","1961-01-01","Active","DG        ","10","2",
+"93196","2048861","95717","Primary","SCHREIBER","SHERMAN","S4-122012CL",,"Inactive","DG IR ST      ",,,"5"
+"94319","2049619","97064","Primary","MAYTA","JEAN B","G4-118936CL","1974-06-20","Active","ST DG       ",,,
+"94788","2051968","92406","Primary","CAMOZZY","MILTON D","G4-110907CL","1974-05-31","Active","ST IR DG      ",,,
+"94821","2052965","92477","Primary","DAVIS","THOMAS C","G4-105672CL",,"Active","DG        ",,,
+"94932","2051244","92702","Primary","SNYDER","JOSEPH M","G4-113360CL","1932-01-01","Active","DG        ","13","1",
+"94937","2052624","92713","Primary","Weijohn Farms",,"G4-108387CL","1918-04-01","Active","DG IR       ","200","8",
+"95442","2052307","92825","Primary","LACY","LOUIS M","S4-109037CL",,"Inactive","IR        ",,,
+"95482","2051380","92907","Primary","FREDERICK","GEORGE R","G4-112119CL","1951-01-01","Active","IR DG       ","10","2","1"
+"95811","2051133","93566","Primary","FRUIT","JUANITA","S4-112882CL","1915-01-01","Active","IR        ","300","120","30"
+"96218","2046855","99066","Primary","NEWMAN","DAVID E","G4-130048CL","1933-01-01","Active","DG IR       ","13","4","1"
+"96439","2051754","93919","Primary","CHALMERS","DON","S4-111909CL","1904-01-01","Active","ST        ","3","2.66",
+"96727","2050725","94510","Primary","BORDEN","ARCHIE W","G4-115653CL","1963-04-01","Active","IR DG       ","13","4","4"
+"97949","2042852","100736","Primary","COPAS","BILLY W","G4-146949CL",,"Active","DG IR ST      ",,,
+"98319","2048407","95928","Primary","KEENE","ADELBERT R","G4-123872CL",,"Active","IR DG       ",,,
+"98348","2047988","95985","Primary","BRIDGE / MORGAN",,"S4-125747CL",,"Inactive","IR ST       ",,,"114"
+"99005","2049850","96404","Primary","MOUNTAIN VIEW WATER ASSN",,"G4-118098CL","1962-01-01","Active","DG        ",,"10.75",
+"100827","2040794","103801","Primary","Trans-West Co",".","S4-153537CL",,"Inactive","ST IR       ",,,
+"100857","2040920","103864","Primary","MANSFIELD","TOWN OF","G4-154288CL",,"Active","DG        ",,,
+"100892","2040512","103931","Primary","DOYLE","ALICE","G4-156465CL",,"Active","DG        ",,,
+"101154","2045095","98421","Primary","DUNCKEL","GEO E","G4-137798CL","1964-07-01","Active","DG        ","20","10",
+"101438","2039891","104579","Primary","EMBREE","KENNETH R","G4-157476CL",,"Active","DG        ",,,
+"102895","2037776","106102","Primary","German","Kirk","G4-24713AWRIS","1977-02-17","Inactive","DM IR       ","2250",,"200"
+"103013","2039469","106345","Primary","NICHOLSON","JOHN H","G4-159801CL","1974-06-24","Active","DG        ","50",,
+"103269","2043373","100417","Primary","BURKE","M J","S4-145063CL",,"Inactive","ST IR       ",,,"85"
+"103530","2037191","106473","Primary","STANTON JACK",,"G4-31108AWRIS","1992-01-10","Inactive","DS IR       ","110",,"9"
+"103845","2038289","107076","Primary","Pomona View Mobile Park",,"G3-+23345AWRIS","1974-08-13","Inactive","DM        ","105","170",
+"105001","2041473","102086","Primary","BOWTON","LARRY L","G4-151436CL",,"Active","DG IR       ",,,
+"105048","2046398","102181","Primary","ANDERSON","RON E","G4-131533CL","1924-01-01","Active","DG        ","12","2",
+"105480","2035773","108573","Primary","GROOMS BOBBY L",,"S4-28618AWRIS","1985-02-19","Inactive","IR        ","0.4",,"20"
+"105605","2036132","108829","Primary","ATCHINSON CHARLIE M",,"S4-*21436AWAWRIS","1969-02-11","Inactive","IR DS       ","0.12",,"2.7"
+"105812","2041256","102805","Primary","BARKLEY","LA VERN G","G4-152112CL","1974-06-30","Active","DG IR ST      ",,,
+"105982","2041995","103139","Primary","MITCHELL","RALPH A","G4-150786CL",,"Active","DG IR       ",,,"1"
+"106495","2034814","109725","Primary","FLAVORLAND INDUSTRIES INC",,"G4-24246PWRIS","1976-03-24","Inactive","IR        ","1215","1307","640"
+"106808","2040428","103888","Primary","KASTNER","MARIE","G4-156200CL","1974-06-30","Active","DG        ",,,
+"106821","2040479","103914","Primary","HULL","ROY C","G4-156347CL",,"Active","DG        ",,,
+"107465","2034387","110762","Primary","WA DNR",,"G4-25988MWRIS","1978-09-11","Inactive","IR        ","2250","1300","250"
+"107936","2033681","111281","Primary","WARD G B ET AL",,"S4-*14490PWRIS","1957-09-10","Inactive","DS        ","0.03",,
+"108534","2037570","105575","Primary","SINES & BRINCKERHOFF",,"G4-29031AWRIS","1986-08-01","Inactive","IR        ","60",,"10"
+"108896","2037640","106297","Primary","JELLISON BURT W",,"G4-26422AWRIS","1979-10-15","Inactive","IR        ","500",,"75"
+"108931","2034440","111924","Primary","Bratrude Amos P*",,"G4-26282BWRIS","1979-06-29","Inactive","IR DM CI      ","470","220","36"
+"109052","4249654","112179","Primary","Garred","J","S3-CV1P418(635)","1904-01-01","Active","DS IR IR IR ST    ",,,
+"109166","2033087","112410","Primary","O'Leary Well Drilling Inc",,"G3-+21468ALPWRIS","1973-08-03","Inactive","DS IR       ","300","116","40"
+"109295","2228087","112664","Primary","Blumont Coal Co",,"S1-*00687AWRIS","1921-06-14","Inactive","MI        ","0.5",,
+"110888","4227499","114034","Primary","Schell","Jim","CG3-22905C","2005-02-25","Inactive","IR        ","600","562.5","225"
+"110946","2035969","108153","Primary","Richland City",,"S4-23493AWRIS","1974-09-26","Inactive","IR        ","79.82","22389","3250"
+"111073","2035988","108414","Primary","Vande Graft","Eldon Jr","S4-23740AWRIS","1974-06-14","Inactive","IR        ","0.035",,"2"
+"111176","4236000","114164","Primary","Friehe Farms",,"G3-01327C(A)","1965-12-07","ChangeInProgress","IR        ","1094","1176","700"
+"111287","4190360","114399","Primary","SAMIS LAND INC",,"G3-28926PWRIS","1990-12-10","Inactive","IR        ","800","280","80"
+"112165","4248297","115267","Primary","Ritzville City",,"CG3-*00477S@1","2005-09-09","Active","MU        ","300","141",
+"112564","4192354","115600","Primary","Lyons (Trustee)","David","CS4-YRB03CC2255(A)","1999-02-10","Inactive","IR ST       ","0.286","77.3","14.32"
+"112764","2034210","109981","Primary","WA DNR",,"G4-26961VWRIS","1980-07-28","Inactive","IR        ","250","78","25"
+"112890","2035029","110241","Primary","SWIFT WILLIAM",,"G4-23481PWRIS","1974-09-25","Inactive","IR IR       ","1000","808","320"
+"112896","2035054","110253","Primary","Columbia Inland Corporation",,"G4-23885PWRIS","1975-03-18","Inactive","IR        ","800","419","80"
+"113215","2034585","110439","Primary","BARFOOT J M ET UX",,"G4-25464PWRIS","1977-08-24","Inactive","IR        ","100","52","10"
+"113296","2034516","110595","Primary","CAGLE DAVID C",,"G4-25153TWRIS","1977-04-15","Inactive","DS IR       ","200","69","20"
+"113652","4696661","116933","Primary","Hastings","Larry","G3-QB1428(H)","1996-06-18","Active","IR        ","15","5.25","1.5"
+"113745","5802446","117128","Primary","Isaak Land Inc",,"CG3-*02493C@1","2013-07-01","Inactive","IR        ","100","43.98","17.59"
+"113795","4657373","117332","Primary","Stiemert","Ralph","CG3-*01195C(G)","2009-12-08","Active","IR        ","13.82","11.055","3.68"
+"115066","6511127","118674","Primary","Pierce","Vincent","S3-*20705C(15-09)","1968-01-19","Inactive","OT        ","1.1","284",
+"115195","5321142","119193","Primary","Orondo Fruit",,"CG3-00570C@1(D)","2009-12-14","Active","DS IR       ","108.75","44.21","9.72"
+"115269","6278979","119349","Primary","Pepper","Donald","S1-28788","2014-09-15","Active","DS        ","0.01","0.168",
+"117285","4240828","114143","Primary","Hovrud","Jerome","CS3-094620CL@2","2005-08-04","Inactive","IFlow IR       ",,,
+"117356","4168634","114277","Primary","CRONE","CLETUS","S4-*25001JC(II)","1870-01-01","Active","IR        ","0.04",,"0.25"
+"117692","5925154","123370","Primary","Griffin","A","G3-*00377C","1946-09-24","Inactive","DM        ","80","40",
+"117911","4412699","123851","Primary","Jones","Greg","G4-35147","2007-06-08","Inactive","IR        ","150",,
+"118278","4249101","115274","Primary","Ruiz","Benjamin","G4-35071","2005-10-20","Inactive","IR        ",,,
+"118507","4274040","115773","Primary","DURHACK ROY P",,"RI-CV1-P77","1987-10-13","Active","DS FS WL      ","0","198",
+"118867","4471988","124525","Primary","Dick Bedlington Farms",,"CG1-*01295CWRIS","2007-12-04","Inactive","IR        ","140","19","15"
+"119068","4340761","116442","Primary","Lauzier","Paul","G3-22690","1974-03-05","Inactive","IR        ","1200",,"80"
+"119238","4533445","116791","Primary","SwiftWater Ranch LLC",,"CS4-02255(C)CTCL@1","2008-08-25","Inactive","DM IR       ","0.23","28.45",
+"119902","4615758","126008","Primary","Washington Water Service",,"G2-25846(B)","1996-05-08","Active","DM        ","90","18.5",
+"120352","5117728","117846","Primary","Peterson Farms",,"S2-30591","2012-01-25","Inactive","IR        ","2.67",,"1270"
+"120403","4544083","126634","Primary","Grant Cnty PUD 2",,"S3-*13648","1955-10-27","Inactive","PO        ","120000",,
+"120494","4148451","126819","Primary","Monteillet","Joan","CS3-*34264J","2003-03-10","Inactive","IR IR       ","0.6",,"30"
+"120574","4522735","126991","Primary","RHBR LLC",,"G1-28581","2008-07-22","Inactive","DM        ","10","7.85",
+"121016","4252587","127416","Primary","Oyhut Bay Corporation",,"G2-30288","2005-09-16","Active","IR        ","125","15.5","15"
+"121344","4543444","127610","Primary","WA Power Commission",,"S3-*13296","1955-02-18","Inactive","PO        ",,,
+"121720","4884618","120009","Primary","Grant Cnty PUD 2",,"G3-*07567C","1965-03-18","Active","MU        ","200","163",
+"121888","2284905","128291","Primary","Federal Way Water & Sewer Dist",,"G1-26990","1993-03-03","Inactive","MU        ","500",,
+"122306","2284061","128671","Primary","Depee","Fred & Linda","G1-27576","1994-12-27","Inactive","DM        ","300",,
+"122557","6088004","122051","Primary","Taneum Canal Company",,"CS4-00411sb6@5","2014-01-30","Active","IFlow IFlow       ",,,
+"122725","2284350","129063","Primary","Sieckhaus","John & Kristin","S1-25828","1990-08-29","Active","DS        ","0.01","0.5",
+"123104","2284245","129385","Primary","POLINDER","FRED","S1-27179","1993-06-10","Active","IR        ","0.4",,"30"
+"123669","4217655","130075","Primary","Warden Hutterian Brethren c/o Paul Wollman",,"G3-QB0144(B)","1973-05-01","Inactive","IR        ","904.5","388.5","111"
+"123786","6125728","123353","Primary","South Warm Beach Water",,"CS1-*01841C","1957-02-07","Inactive","DM        ","0.01",,
+"124016","2283077","130328","Primary","Duell","Charles","S4-26202","1979-04-13","Active","DM        ","0.02","2",
+"124150","2283664","130585","Primary","USFS Wenatchee *",,"S4-27190 T","1980-11-27","Active","ST        ","0.005",,
+"124172","2283198","130626","Primary","Hidden Valley Dairy LLC",,"G4-27035","1980-08-28","ChangeInProgress","IR        ","400","210","40"
+"124305","4470443","123958","Primary","McDougall","Robert","CS4-30629C","2007-11-13","Active","IR DM       ","0.011","1.34","0.15"
+"124574","2283113","131000","Primary","Brunner Orchards Inc",,"G4-29182","1987-01-08","Active","DM        ","20","2.5",
+"124693","5564663","124357","Primary","Sween","Todd","CG3-QB1575","2012-12-19","Inactive","IR        ","300","105","30"
+"125010","2282908","131425","Primary","Gebbers Farms Inc*",,"G4-28963","1986-06-03","ChangeInProgress","IR        ","800","320","80"
+"125084","2282146","131578","Primary","Bell-Bay-Jackson Water",,"G1-*02537CWRIS","1952-05-19","Active","DM        ","60","97",
+"125662","4448825","125640","Primary","Nelsen","Carl","S3-98004059CL",,"Inactive","IR ST       ","0.5","10","4"
+"125894","2281486","132319","Primary","Crestview West Water Company",,"G1-*05340CWRIS","1959-07-22","Inactive","DM        ","80","36",
+"128234","2284085","128682","Primary","Jackson","Jack","S4-30692","1991-04-12","Inactive","DS        ","0.011","0.5",
+"128401","2280689","134652","Primary","MANTHEY WILLIAM E",,"G1-*10699CWRIS","1970-03-11","Active","DM        ","100","45",
+"128445","2280339","134743","Primary","AICHINGER HARRY H",,"G1-00441CWRIS","1971-03-17","Active","DS        ","10","2",
+"128490","2279434","134827","Primary","WEST ROBERT E",,"G1-22899CWRIS","1977-06-20","Active","DM        ","40","3.6",
+"128977","2284224","129270","Primary","STAVIK","MARY","S1-27088","1993-04-19","Active","DS        ","0.02",,
+"129088","2283918","129492","Primary","Featherly","Robert ""Budd""","G4-28673","1985-04-25","Active","IR        ","95","38","9.5"
+"129101","2283978","129522","Primary","Wapatox Ditch Co",,"S4-28164","1983-03-09","Active","FP        ","11.1",,"100"
+"129132","2283570","129591","Primary","Sunny Acres Ranch LLC",,"CG4-30308P","1993-06-11","Active","DY DM       ","125","65",
+"129446","2278851","135836","Primary","Iliad Inc",,"G1-24501CWRIS","1984-06-07","Active","DM        ","40","12.1",
+"129469","2278443","135894","Primary","Mayfair Place Homeowners Association",,"G1-24996CWRIS","1987-03-10","Active","DM        ","35","4",
+"129804","4197478","130062","Primary","Finnell","Alfred","S4-98000556CL",,"Inactive","NR        ","0.02","126",
+"130140","2279886","136346","Primary","HENRIKSON H S",,"G1-21344CWRIS","1974-03-19","Active","IR        ","250","41.5","25"
+"130493","2276006","137046","Primary","LIPES R L",,"S1-*11215CWRIS","1952-04-03","Active","DS        ","0.01",,
+"130817","2285989","131229","Primary","MILLER","HERMAN","G1-302373CL",,"Active","ST DG       ","10","0","0"
+"130822","2286005","131237","Primary","TRONSDAL","HOWARD","S1-302330CL",,"Active","IR        ","200","68","34"
+"130896","2282841","131391","Primary","ZENDER","JANICE","G1-27639","1995-06-27","Inactive","DM        ","20",,
+"131321","2277097","137808","Primary","HOAK H W",,"S1-*06375CWRIS","1945-04-07","Active","IR        ","0.56",,"104"
+"131404","2282549","131514","Primary","O'DELL J",,"G1-*00041CWRIS","1945-11-08","Active","IR        ","180","40","40"
+"131949","2276980","138165","Primary","FOBES F D ET UX",,"S1-*07197CWRIS","1946-05-31","Active","DM IR       ","0.03",,"1.5"
+"131962","2277030","138191","Primary","STEELE E N",,"S1-*06110CWRIS","1944-08-16","Active","CI        ","0.1",,
+"132655","2282013","133110","Primary","BRADLEY L E",,"G1-*02118CWRIS","1951-09-04","Active","IR        ","180","60","39"
+"132748","2279492","133287","Primary","Harbor Water Co Inc",,"G1-23033C","1978-01-20","Active","DM        ","100","160",
+"132755","2274902","138869","Primary","LAMB W E ET UX",,"S1-*19464CWRIS","1966-02-17","Active","IR        ","0.01","1","0.5"
+"133307","2281288","133504","Primary","King Cnty Water Dist 100",,"G1-*05814CWRIS","1960-01-19","Active","DM        ","200","320",
+"133442","2276497","139765","Primary","BERNASCONI T",,"S1-*09289CWRIS","1949-12-30","Active","IR        ","0.38",,"38"
+"133917","2274319","140267","Primary","Twin Lakes Golf & Country Club",,"S1-00598ALCWRIS","1963-07-17","Active","RE        ","0.6",,
+"134019","2273917","140477","Primary","LANGLOIS BILLY R",,"S1-20334CWRIS","1972-10-27","Active","FS RE       ","0.1",,
+"134055","2272271","140555","Primary","BOYD DENNIS P",,"S1-25964CWRIS","1990-11-01","Active","DM        ","0.02","0.65",
+"134672","2279022","134884","Primary","Northgate Terrace",,"G1-24154CWRIS","1982-06-25","Active","DM        ","85","109.46",
+"134695","2279116","134933","Primary","DYKSTRA RAYNARD J",,"G1-23573GWRIS","1980-03-03","Active","IR        ","400","184","110"
+"134866","2273720","141248","Primary","SHANAHAN M G & J G",,"S1-20572CWRIS","1973-04-23","Active","IR        ","0.02","1","0.5"
+"135216","2279807","135531","Primary","Helms","David","G1-21071CWRIS","1973-11-27","ChangeInProgress","IR        ","125","200","100"
+"135364","2271936","141806","Primary","MILLMAN","VERN L.","G1-000035CL",,"Active","DG        ",,,
+"135990","2278675","136155","Primary","TULLER CHARLES G",,"G1-24788CWRIS","1986-01-29","Active","DS        ","8","1",
+"136013","2278242","136203","Primary","BLUMER CARL&RUTH",,"G1-25271CWRIS","1988-07-06","Active","DM        ","39","4.5",
+"136027","2278299","136230","Primary","Kitsap Cnty PUD 1",,"G1-25447C","1989-05-15","Active","DM        ","50","32",
+"136222","2271287","142607","Primary","CAMPBELL","DORIS C.","G1-002359CL",,"Active","DG        ",,,
+"136939","2277603","137161","Primary","OLSON A",,"S1-*04623ALCWRIS","1938-09-07","Active","IR        ","0.51",,"34"
+"137481","2272060","143758","Primary","Nelson","Henry","G1-26674","1992-07-22","Inactive","DM WL       ","40",,
+"137597","2270259","143977","Primary","BELLES","CLARENCE","S1-005790CL",,"Active","DG ST       ",,,
+"137901","2277013","138182","Primary","KELLY A F",,"S1-*07323CWRIS","1946-07-15","Inactive","IR        ","0.25",,"25"
+"138530","2269828","144947","Primary","BERNARD","RICHARD","G1-007889CL",,"Active","DG        ",,,
+"138743","2276464","138973","Primary","CUNNINGHAM H B ET UX",,"S1-*09078CWRIS","1949-09-12","Active","IR        ","0.02",,"2"
+"138758","2276524","139003","Primary","TEMPLETON E W",,"S1-*09496CWRIS","1950-03-30","Active","DS        ","0.01",,
+"138790","2275400","139069","Primary","FLAHERTY AGNES J",,"S1-*14550CWRIS","1957-10-18","Inactive","WL        ","0.2",,
+"138829","2275017","139146","Primary","BEECH E J",,"S1-*17788CWRIS","1963-03-18","Active","IR        ","0.24","48","24"
+"138868","2276147","139228","Primary","SHELTON C S ET UX",,"S1-*10472CWRIS","1951-07-09","Active","DS        ","0.01",,
+"139090","2268136","145160","Primary","WILLIAMS","GEO R.","G1-016139CL",,"Active","DG        ",,,
+"139390","2268880","145751","Primary","JONES","ROBERT E.","G1-011768CL",,"Active","DG ST       ",,,
+"139738","2267604","146003","Primary","MCLEOD","KENNETH","G1-017844CL",,"Active","DG        ",,,
+"139773","2267291","146075","Primary","KNOWLES","VIOLA P.","G1-020626CL",,"Active","DG        ",,,
+"139925","2269198","146378","Primary","SCURLOCK","ANGUS","G1-011327CL",,"Active","DG        ",,,
+"140261","2267427","146590","Primary","VANZEE","ROLEN","G1-019087CL",,"Active","DG ST       ",,,
+"140429","2272278","140557","Primary","JOHNSON L & P",,"S1-26182CWRIS","1991-05-15","Active","DS        ","0.002","0.33",
+"140548","2274147","140805","Primary","FEDDOCK JOHN G",,"S1-20166CWRIS","1972-06-06","Active","IR        ","0.02","6","3"
+"140767","2273755","141266","Primary","SANDBECK KNUT",,"S1-20661CWRIS","1973-05-30","Active","IR        ","0.01","0.5","0.5"
+"141080","2268786","147327","Primary","LANG","DAVID","G1-013302CL",,"Active","DG        ",,,
+"141436","2273287","141703","Primary","HELM BRUCE K",,"S1-21546CWRIS","1974-04-29","Active","IR        ","0.02","0.5","0.25"
+"141638","2272841","142106","Primary","COOPER MERTON G",,"S1-22543CWRIS","1975-07-08","Active","FS RE FR      ","0.05",,
+"141673","2272991","142181","Primary","BRINSON ED L ET UX",,"S1-22201CWRIS","1974-06-28","Active","DS        ","0.38","1",
+"142078","2266377","148422","Primary","CHRISTENSEN","EUGENE G.","G1-025073CL",,"Active","DG IR       ",,,"2"
+"142145","2266118","148558","Primary","BUZZARD","DONALD","S1-026225CL",,"Active","DG        ",,,
+"142168","2265673","148600","Primary","PIERCE","CHARLES R.","G1-027989CL",,"Active","IR        ",,,"1"
+"142586","2271224","143130","Primary","O'BRIEN","MALCOLM P.","G1-002212CL",,"Active","IR DG       ",,,"2"
+"142684","2264091","148741","Primary","JOHNSON","J. MCCOY","G1-034271CL",,"Active","DG        ","5","1",
+"142841","2263896","149045","Primary","SCHWARTZ","JOE","G1-035227CL",,"Active","DG ST       ",,,
+"142850","2263931","149064","Primary","PICOU","ROBERT WILLIAM","G1-033569CL",,"Active","DG        ",,,
+"142949","2265470","149249","Primary","COWEN","WESLEY E.","G1-028890CL",,"Active","DG        ",,,
+"143246","2270757","143554","Primary","YOUNG","DALE R.","G1-003840CL",,"Active","IR ST DG      ",,,"10"
+"143428","2270699","143930","Primary","ROUNDS","NINA","G1-003519CL",,"Active","DG        ",,,
+"143465","2269981","144014","Primary","TOLAR","GEORGE A.","G1-008725CL",,"Active","DG        ",,,
+"143783","2263709","150061","Primary","HEVLY","J. C.","G1-034557CL",,"Active","DG        ",,,
+"144064","2269764","144307","Primary","SAVAGE","JOYCE L.","G1-009849CL",,"Active","DG        ",,,
+"144212","2269954","144607","Primary","SLATTERY","HENRY","G1-008490CL",,"Active","DG        ",,,
+"144364","2269745","144906","Primary","MYHR","ROBERT O.","G1-009764CL",,"Active","DG        ","0.5","0.8",
+"144443","2269544","145067","Primary","EVANS","DONALD L.","G1-010871CL",,"Active","DG        ",,,
+"144573","2263261","150745","Primary","JOHNSON","HARRY A.","S1-036069CL",,"Active","DG        ",,,
+"145026","2267952","145335","Primary","BOEHM","ADAM F.","G1-017381CL",,"Active","DG        ",,,
+"145471","2268237","145788","Primary","SULLIVAN","CLIFFORD L.","G1-014745CL",,"Active","DG        ",,,
+"145780","2260380","152277","Primary","POLLMAN JR.","WALTER W.","S1-046942CL",,"Active","DG        ",,,
+"146405","2267471","146748","Primary","LOVERING","PHILLIPS H.","G1-019339CL",,"Active","IR DG       ",,,"8"
+"146603","2260237","153009","Primary","ALBERTINE","ERNEST T.","G1-047993CL",,"Active","DG ST       ",,,
+"147056","2260207","153459","Primary","WN ST DEPT GAME",,"G1-047900CL","1935-01-01","Active","DG        ","10","2",
+"147199","2266523","147445","Primary","PETERSON","HENRY A.","S1-023381CL",,"Active","DG ST       ",,,
+"148728","2263606","149170","Primary","ROBERTSON","STUART A","G1-035831CL",,"Active","DG        ",,,
+"148836","2264220","149378","Primary","WEBSTER","LLOYD S.","G1-032804CL",,"Active","IR DG       ",,,"2"
+"149028","2259776","155126","Primary","MORRIS","R. H.","S1-049873CL",,"Active","IR        ",,,"15"
+"150420","2263194","150711","Primary","HOUGH","DAVID C.","G1-037257CL",,"Active","DG        ",,,
+"150427","2263219","150724","Primary","NIELSON","F. P.","G1-037333CL",,"Active","ST DG       ",,,
+"150498","2264925","150865","Primary","IRELAND","LILLIAN","G1-030252CL",,"Active","NR        ",,,
+"150839","2256834","156960","Primary","WAITE","RUTH E.","G1-061011CL",,"Active","DG ST       ",,,
+"150928","2257568","157138","Primary","KINDER","WM. L.","G1-056937CL",,"Active","DG ST       ",,,
+"151400","2264713","151760","Primary","OHARA","KENNETH W.","G1-031269CL",,"Active","DG        ",,,
+"151547","2255925","157926","Primary","WAGNER","BEN W.","G1-062917CL",,"Active","DG        ",,,
+"151550","2255935","157932","Primary","BROWN","WAYNE C.","G1-062943CL",,"Active","DG        ",,,
+"151557","2255968","157948","Primary","GARNER","MARTIN H.","G1-063127CL",,"Active","DG        ",,,
+"151796","2261949","152097","Primary","NYSTROM","RODNEY R.","G1-041466CL",,"Active","DG IR       ",,,"5"
+"152549","2254729","159027","Primary","WALKER","RAY F.","G1-070668CL",,"Active","DG IR ST      ",,,"1"
+"152742","2253986","159430","Primary","HADDOW","GEORGE A.","S1-073200CL",,"Active","DG        ",,,
+"153256","2259851","153684","Primary","MCCLAIM","WILLIAM A.","S1-048283CL",,"Active","DG        ",,,
+"153888","2253908","160361","Primary","ALLEN","ROBERT B.","S1-072797CL",,"Active","DG        ",,,
+"153915","2260029","154115","Primary","JOHNSON","BERNARD","G1-047346CL",,"Active","ST IR DG      ",,,
+"153934","2259570","154154","Primary","PARKS","CHARLES","G1-049005CL",,"Active","DG        ",,,
+"154218","2255455","160573","Primary","TONSETH","ASTRID","S1-066749CL",,"Active","DG        ",,,
+"154233","2255503","160597","Primary","ROBERTS","THOMAS W.","S1-065167CL",,"Active","IR        ",,,"2"
+"154431","2253371","161002","Primary","WEBSTER","WALTER W.","G1-075851CL",,"Active","DG ST       ",,,
+"154433","2253378","161005","Primary","OLSON","FLOYD G.","G1-075867CL",,"Active","DG        ",,,
+"154452","2252918","161040","Primary","GROVER","JANE A.","G1-077286CL",,"Active","DG        ",,,
+"154570","2253126","161279","Primary","NOWAK","DELWYN J.","S1-076398CL",,"Active","DG        ",,,
+"154666","2259085","154712","Primary","PETERSON","HAROLD A.","S1-052638CL",,"Active","DG        ",,,
+"155009","2260782","155412","Primary","HAWES","ROLLIN B.","G1-044954CL",,"Active","ST DG       ",,,
+"155489","2252674","161318","Primary","DEMPEWOLF","WILLIS L.","G1-077776CL",,"Active","DG        ",,,
+"155670","2250693","161678","Primary","BURDYSHAW","GERALD D.","S1-083669CL",,"Active","DG ST       ",,,
+"155832","2250973","162009","Primary","DAVIE JR.","ROBERT D.","G1-082986CL",,"Active","DG ST       ",,,
+"155880","2252823","162102","Primary","CAMPION","DANIEL J.","G1-076924CL",,"Active","DG        ",,,
+"155936","2250583","162216","Primary","WILSON","DAVID R.","G1-084810CL",,"Active","DG        ",,,
+"156240","2251898","162814","Primary","SKEWARK","WILLIAM","G1-079964CL",,"Active","DG        ",,,
+"156271","2250401","162876","Primary","ZIRKLE","CHARLES","G1-085595CL",,"Active","DG        ",,,
+"156866","2252522","163161","Primary","SPRAGUE","ALLIE","S1-077456CL",,"Active","DG        ",,,
+"157122","2251903","163655","Primary","SHEPHERD","WALLACE M.","G1-079985CL",,"Active","DG        ",,,
+"157253","2251336","163907","Primary","HJORT","KRISTINE","G1-082690CL",,"Active","DG        ",,,
+"157475","2256152","157638","Primary","BENNETT","FRED C.","G1-061908CL",,"Active","DG ST       ",,,
+"157679","2257202","158034","Primary","SALENJOS","CHARLES H.","G1-058902CL",,"Active","DG        ",,,
+"157918","2251446","164334","Primary","NYSTROM","KARL","G1-081541CL",,"Active","DG        ",,,
+"158087","2249952","164669","Primary","KRAUTER","EDWARD M.","G1-087393CL",,"Active","IR DG       ",,,
+"158792","2254362","159351","Primary","COREY","SAMUEL","G1-070970CL",,"Active","ST DG       ",,,
+"158872","2249594","164894","Primary","BRANDT","JULIUS","G1-087730CL",,"Active","DG        ",,,
+"159182","2248941","165506","Primary","FINNEY","HARVEY L JR","G1-090202CL",,"Active","IR DG       ",,,
+"159427","2253786","159733","Primary","SHELLEY","WAYNE","G1-074113CL",,"Active","DG        ",,,
+"159444","2253862","159772","Primary","HINDMAN","GLENN E.","G1-074356CL",,"Active","DG ST       ",,,
+"161080","2246930","167494","Primary","HAVEMAN","VERN K","G1-099417CL",,"Active","DG        ",,,
+"161900","2247178","168225","Primary","THOMPSON","ERNEST F","G1-098335CL",,"Active","ST DG       ",,,
+"162278","2245129","168529","Primary","VOSS","MRS GEORGE K","S1-105864CL",,"Active","DG        ",,,
+"162532","2251866","162798","Primary","SUNDSTROM","AL","G1-079817CL",,"Active","DG        ",,,
+"162750","2244690","169015","Primary","HAYS","ERNEST J","G1-107729CL",,"Active","IR ST DG      ",,,
+"162958","2245695","169440","Primary","BURROWS","ALBERT C","G1-102982CL",,"Active","DG        ",,,
+"163103","2244507","169735","Primary","RITTER","THAD M","G1-108723CL",,"Active","DG IR ST      ",,,
+"163294","2251782","163428","Primary","RASMUSSEN","REIDER","G1-081148CL",,"Active","ST DG       ",,,
+"163789","2250097","163995","Primary","HATCH","MARSHALL","G1-086369CL",,"Active","DG        ",,,
+"164252","2243148","170651","Primary","SMITH","EDWARD R","G1-113964CL",,"Active","DG IR       ",,,
+"164400","2243688","170943","Primary","GALLOWAY","CAP","G1-110802CL",,"Active","DG ST       ",,,
+"164845","2243787","171397","Primary","SURA","JAMES E","G1-111100CL",,"Active","DG        ",,,
+"164864","2243329","171442","Primary","MC KIDDY","ROBERT P","G1-112905CL",,"Active","DG IR       ",,,"1"
+"164949","2249198","164962","Primary","NELSON","WALTER C","G1-089473CL",,"Active","ST IR DG      ",,,
+"166728","2246911","166753","Primary","BIRD","RICHARD A","G1-099296CL",,"Active","IR DG       ",,,
+"166871","2247976","167037","Primary","VOORDE POORTE","ARTHUR P","G1-093416CL",,"Active","DG        ",,,
+"167537","2239607","174119","Primary","FJARLIE","HAROLD O","G1-127162CL",,"Active","DG ST       ",,,
+"168313","2239994","174749","Primary","CROFOOT","ELBERT M","G1-126855CL",,"Active","DG IR       ",,,
+"168539","2244672","168570","Primary","SCHAEFER","ROBERT C JR","S1-107677CL",,"Active","ST IR       ","0.3","15","15"
+"168885","2239029","175456","Primary","AKERS","ROYAL A","G1-130068CL",,"Active","DG        ",,,
+"169212","2238903","175660","Primary","WALCH","A W","G1-129343CL",,"Active","DG        ",,,
+"169226","2238419","175686","Primary","JOHNSON","DANIEL","G1-133395CL",,"Active","DG        ",,,
+"169724","2238933","176241","Primary","KOLASH","FRED J","G1-129428CL",,"Active","DG        ",,,
+"169871","2236916","176536","Primary","LORENTZ","JOSEPH L","G1-139095CL",,"Active","NR        ",,,
+"170509","2243804","170730","Primary","WARREN","CARL R","G1-111150CL",,"Active","IR        ",,,
+"170907","2243207","171085","Primary","EMMINGER","ROBERT A","G1-112442CL",,"Active","IR DG       ",,,
+"171297","2243797","171403","Primary","HAMMER","CURTIS D","G1-111124CL",,"Active","DG ST       ",,,
+"171461","2237689","177912","Primary","GANGLE","HAZEL C","G1-136065CL",,"Active","DG ST       ",,,
+"171616","2234936","178228","Primary","MC LEOD","MALCOLM S","S1-146698CL",,"Active","IR DG ST      ",,,"15"
+"171698","2235000","178395","Primary","REISATER","TORGILS","S1-146943CL",,"Active","IR        ",,,
+"171966","2242970","171835","Primary","LIPPY","BEN H JR","S1-113328CL",,"Active","NR        ",,,
+"172022","2241193","171942","Primary","BILLMAN","LEONARD A","G1-121828CL",,"Active","IR DG       ",,,
+"172501","2234750","179077","Primary","GRANT","DAVID R","G1-147564CL",,"Active","DG        ",,,
+"172787","2234782","179663","Primary","GRAY","LAURA B","S1-147598CL",,"Active","IR        ",,,
+"172845","2240998","172688","Primary","WOODWARD","MACK G","G1-122921CL",,"Active","DG        ",,,
+"173234","2242402","173449","Primary","ANDERSON","JACK R","G1-116540CL",,"Active","IR        ",,,
+"173305","2234520","179797","Primary","GAY","FRS FRED","G1-148138CL",,"Active","DG        ",,,
+"173600","2233340","180394","Primary","WALKER","JOHN H","G1-153117CL",,"Active","DG        ",,,
+"173656","2235833","180507","Primary","SCHUBERT","THOMAS W","G1-143886CL",,"Active","DG IR       ",,,
+"173680","2235919","180552","Primary","VAUGHN","LOREN G","G1-144163CL",,"Active","ST DG       ",,,
+"173727","2240553","173541","Primary","DRUGGE","MRS H W","G1-124624CL",,"Active","IR DG       ",,,
+"173843","2241699","173765","Primary","RYAN","FREDERICK F J","G1-119693CL",,"Active","ST DG       ",,,"10"
+"174601","2239330","174388","Primary","HANSEN","MYRTLE L","G1-129237CL",,"Active","DG        ",,,
+"174885","2239333","174957","Primary","JARRETT","MARY","G1-129245CL",,"Active","NR        ",,,
+"175369","2231174","182110","Primary","KELLY","KAY J","G1-160783CL",,"Active","DG        ",,,"4"
+"175501","2241499","175289","Primary","POTEET","JOHN C","S1-121102CL",,"Active","IR        ",,,"52"
+"175566","2238954","175417","Primary","VAN ZANDT CHURCH OF THE",,"S1-129515CL",,"Active","DG IR       ",,,
+"175657","2238772","175595","Primary","BORCHERDING","SAM","G1-130976CL",,"Active","IR        ",,,
+"175762","2237084","175810","Primary","GALANDO","MICHAEL P","S1-137915CL",,"Active","IR        ",,,
+"176027","2232699","182527","Primary","CARROLL","RAYMOND L","S1-155746CL",,"Active","IR        ",,,
+"176426","2238901","176225","Primary","SCHANCK","MRS JOHN B","G1-129331CL",,"Active","DG        ",,,
+"176629","2237547","176642","Primary","COCHRAN","JAMES W","G1-135448CL",,"Active","DG        ",,,
+"176728","2238231","176837","Primary","COYLE","JOSEPH T","G1-132275CL",,"Active","IR        ",,,
+"176780","2236802","176942","Primary","BRASE","EMERY H","G1-140953CL",,"Active","IR ST DG      ",,,"10"
+"176869","2231090","183283","Primary","LUNDQUIST","WALLACE R","G1-160524CL",,"Active","IR DG       ",,,
+"177323","2238007","177126","Primary","HENKE","JOSEPH T","G1-133607CL",,"Active","DG        ",,,
+"177792","2230809","184240","Primary","PEDERSON","OBERT G","G1-161006CL",,"Active","ST DG       ",,,
+"177918","2228942","184500","Primary","WEST ELMER",,"G1-*08851AWRIS","1967-07-14","Inactive","DS        ","15",,
+"178148","2228501","184975","Primary","ABRAHAMSEN CLARA",,"G1-25484AWRIS","1989-07-11","Inactive","DS        ","5",,
+"178413","2234995","178394","Primary","CLARKE","JOHN I","G1-146910CL",,"Active","ST IR DG      ",,,
+"178610","2230521","185464","Primary","PREMGSCHAT","DAVID B","G1-161539CL",,"Active","DG        ",,,
+"178932","2228672","185663","Primary","HOVIK ELMER C",,"G1-23983AWRIS","1981-11-03","Inactive","DM        ","25",,
+"180068","2234213","179913","Primary","IMRIE","CLIFTON M","G1-148596CL",,"Active","ST DG       ",,,
+"180175","2233597","180115","Primary","HELLER","STEPHEN E","G1-151588CL",,"Active","ST DG IR      ",,,
+"180187","2233639","180137","Primary","LEWIS","H W","G1-151640CL",,"Active","DG        ",,,
+"180326","2236202","180420","Primary","NICHOLSON","RICHARD D","G1-142278CL",,"Active","NR        ",,,
+"180554","2226821","187153","Primary","HANBY RAY & DEBBIE",,"S1-24818AWRIS","1986-04-01","Inactive","IR ST WL      ","0.28",,"14"
+"180832","2226677","187716","Primary","ALEXANDER JOHN E",,"G1-*00303PWRIS","1946-07-06","Inactive","IR        ","120","24.75","16.5"
+"180846","2226735","187744","Primary","PITTAM G E",,"G1-*01994PWRIS","1951-06-06","Inactive","DM        ","50","56",
+"180862","2226799","187776","Primary","PHILLIPS EUGENE D",,"G1-*02923PWRIS","1953-01-15","Inactive","IR        ","120","30","20"
+"182491","2225140","189222","Primary","WATANABE S & M",,"S1-*15025PWRIS","1958-08-27","Inactive","IR DS       ","0.03","4","2"
+"182610","2223313","189450","Primary","Brisbin","Earl","S2-302453CL",,"Active","DG OT ST IR CI    ","300","100","5"
+"182671","2225001","189572","Primary","HENNRICH LEROY J",,"S1-*16661PWRIS","1961-05-02","Inactive","IR        ","0.2",,"20"
+"182751","2232281","182589","Primary","BARNER","HENRY A","S1-157248CL",,"Active","IR DG       ",,,
+"182981","2223457","189740","Primary","Grunstad","Virginia","S2-301446CL",,"Active","DG ST       ","0.08","1.4","0"
+"182985","2223473","189748","Primary","THOMPSON","ROSANNE","G2-98003430CL",,"Inactive","IR ST DG      ","0","10","5"
+"183037","2224723","189853","Primary","TIMMER JOHN A",,"S1-00023PWRIS","1971-05-14","Inactive","DM        ","0.01","2",
+"183988","2229126","184191","Primary","KEHL WM & JOHN",,"G1-*01191AWRIS","1949-08-04","Inactive","IR        ","1000",,"15"
+"184073","2224760","190566","Primary","NIELSEN DONALD",,"S1-*17230PWRIS","1962-04-11","Inactive","IR        ","0.14","28","14"
+"184631","2230768","184574","Primary","KLEINKE","ELMER L JR","G1-160893CL",,"Active","IR DG       ",,,
+"184682","2229449","184677","Primary","ISAMAN","DIXIE R","G1-164769CL",,"Active","DG        ",,,
+"185134","2222429","191836","Primary","Presbytery Of Olympia",,"G2-28341","1991-10-31","Active","DM        ","21","7",
+"185294","2222237","192164","Primary","Enevoldsen","Stanley","G2-28573","1992-04-16","Active","DM        ","35","3",
+"185501","2230387","185397","Primary","LEATHAM","EARL","G1-162481CL",,"Active","IR DG       ",,,"1"
+"186248","2227695","186423","Primary","SMITH CLARENCE ET UX",,"S1-*06912AWRIS","1946-02-18","Inactive","IR DS HE ST     ","0.015",,"1"
+"186510","2220828","193249","Primary","Friend & Friend Enterprises Inc",,"S2-28673","1992-11-19","Active","DS        ","0.03","0.34",
+"186880","2220597","193551","Primary","NORTH C A",,"G2-*01107CWRIS","1949-04-21","Active","DS IR       ","125","15","10"
+"187097","2229997","187197","Primary","FINNIGAN","DONALD E","S1-163790CL",,"Active","IR        ",,,
+"187538","2227019","187622","Primary","Western Power Inc",,"S1-23947AWRIS","1981-09-10","Inactive","PO        ","300",,
+"187882","2220247","194687","Primary","SCHERER C M",,"G2-*02154CWRIS","1951-09-26","Active","IR        ","33","10","5"
+"188220","2225043","188088","Primary","BASTIAN FRANK",,"S1-*13613PWRIS","1955-09-22","Inactive","IR        ","0.22",,"22"
+"188357","2219214","195195","Primary","Candlewood Mobile Manor",,"G2-*07795CWRIS","1965-09-20","Active","DM        ","100","27.9",
+"188692","2225905","188583","Primary","HARVEY FRANK M",,"S1-*04774PWRIS","1939-04-07","Inactive","DS IR       ","0.5",,"60"
+"188907","2220158","195843","Primary","HENDERSON L B",,"G2-*03098CWRIS","1953-03-19","Active","DS IR       ","30","10","10"
+"188915","2220190","195859","Primary","BURTON C N",,"G2-*01966CWRIS","1951-05-22","Active","IR        ","175","80","40"
+"189139","2225694","189029","Primary","BARTLEY JOHN",,"S1-*05879PWRIS","1943-07-31","Inactive","IR        ","0.01",,"2"
+"189372","2224889","189515","Primary","HILLMAN W E",,"S1-*19418PWRIS","1966-01-17","Inactive","PO        ","5",,
+"189392","2224968","189555","Primary","ANDERSON RALPH W",,"S1-*16256PWRIS","1960-08-10","Inactive","IR        ","0.05","10","5"
+"189522","2218701","196166","Primary","DANIELSEN O",,"G2-*10294CWRIS","1969-07-08","Active","DS        ","10","1",
+"189648","2218340","196413","Primary","Agnew S J",,"G2-00216CWRIS","1972-02-22","Active","IR        ","800","90","40"
+"190054","2223625","189981","Primary","Kato","Walter","S2-300936CL",,"Active","ST IR       ","17.5","35","35"
+"190155","2224845","190194","Primary","MEADE A R ET AL",,"S1-*18748PWRIS","1964-10-16","Inactive","CI IR DM      ","0.25","35","17"
+"190343","2224285","190591","Primary","Skagit Cnty PUD 1",,"G1-25509","1989-08-25","Active","DM        ","95","19",
+"190882","2215778","197548","Primary","Talmo Inc",,"G2-26402CWRIS","1983-08-18","Active","DM        ","90","9",
+"191059","2224106","191148","Primary","Seattle City Light",,"S1-27994","1998-08-20","Active","IR        ","0.55",,"1.5"
+"191079","2224180","191186","Primary","Norwester Camp",,"S1-28018","1998-12-02","Active","DM        ","0.18","0.767",
+"191585","2217004","198515","Primary","CRAWFORD CORNELIUS",,"G2-23199CWRIS","1974-09-30","Active","DM        ","25","4",
+"191927","2224153","192003","Primary","Ridgeview Estates Community Association",,"CG1-24323C","1998-10-14","Inactive",,,,
+"191981","2222128","192109","Primary","Dumontet","Donald","G2-28959","1993-11-10","Inactive","CI        ","19","0",
+"192127","2221821","192412","Primary","Long","Fred","S2-28463","1990-04-20","Active","IR        ","0.33",,"15"
+"192349","2216980","199144","Primary","LOUGHEED WARREN",,"G2-23141CWRIS","1974-05-29","Active","DS IR       ","24","4","3"
+"192438","2217039","199319","Primary","DONALD ROBERT",,"G2-23306CWRIS","1974-06-19","Active","IR        ","100","10","5"
+"192472","2216647","199387","Primary","Belfair Water District 1",,"G2-24044CWRIS","1976-01-13","Active","DM        ","155","225",
+"193099","2215171","199754","Primary","CLINE J",,"G2-27161CWRIS","1987-07-17","Active","DS        ","15","1",
+"193203","2214177","199960","Primary","Blakes Plat Berry Growers",,"S2-*04665CWRIS","1938-11-01","Active","IR        ","0.4",,"20"
+"193350","2213945","200255","Primary","US Interior National Park Service",,"S2-*05866CCWRIS","1943-07-06","Active","DM RE CI FR     ","0.25",,
+"193863","2220893","194096","Primary","Callesen","James","G2-*00119CWRIS","1946-02-13","Inactive","IR        ","80","10","10"
+"194128","2212317","200917","Primary","DEXTER R R",,"S2-*10634CWRIS","1951-08-20","Active","DS FR FS IR     ","0.15",,"3"
+"194244","2213622","201149","Primary","BRIGGS B A",,"S2-*06742CWRIS","1945-10-30","Active","IR        ","0.06",,"6"
+"194779","2220085","195020","Primary","MLADINICH J",,"G2-*02756CWRIS","1952-10-01","Active","IR        ","25","4","2"
+"194847","2032635","195159","Primary","Owens","Vicki","S4-32817","1998-10-28","Active","DS        ","0.01",,
+"194881","2213383","201517","Primary","LEETE C C",,"S2-*06923CWRIS","1946-02-21","Active","PO IR       ","0.24",,"4"
+"195207","2211975","202154","Primary","SCHMIDT A J",,"S2-*12893CWRIS","1954-04-30","Active","IR        ","0.6","120","60"
+"195416","2219340","195403","Primary","MULLEN F / J",,"G2-*06769CWRIS","1963-06-24","Active","DM        ","106","78.4",
+"195443","2218922","195457","Primary","WOOD G & D",,"G2-*09656CWRIS","1968-08-13","Active","DS IR       ","280","85","50"
+"195897","2219749","195909","Primary","ELY S R",,"G2-*04035CWRIS","1955-06-08","Active","IR DS       ","200","45.6","20"
+"195909","2219796","195931","Primary","US Fish & Wildlife Service - SWRO",,"G2-*04323CWRIS","1956-05-22","Active","FS        ","500","320",
+"195998","2211633","202828","Primary","ELLIOTT E H",,"S2-*14197CWRIS","1957-01-16","Active","DS ST       ","0.02",,
+"196165","2210751","203162","Primary","RANDALL D L",,"S2-*18710CWRIS","1964-09-16","Active","DS        ","0.01","1",
+"196817","2218905","196873","Primary","Grays Harbor Cnty Water District 2",,"G2-*09503CWRIS","1968-06-06","Inactive","MU MU       ","450","700",
+"196953","2213019","203828","Primary","WA State Fish & Wildlife Department - SWRO",,"S2-*08943CWRIS","1949-07-28","Active","DM FS ST      ","9",,
+"197083","2210851","204080","Primary","TRETTEVIK P J",,"S2-*17847CWRIS","1963-04-17","Active","DM        ","0.067",,
+"197106","2217344","196996","Primary","Adduco Inc",,"G2-22322CWRIS","1974-04-29","Active","DM        ","37","9",
+"197183","2218637","197146","Primary","Vancouver City",,"G2-00170CWRIS","1969-05-07","Active","MU        ","1250","1500",
+"197242","2216019","197259","Primary","Quail Run Water Co",,"G2-25461CWRIS","1980-01-07","Active","DM        ","200","147",
+"197408","2217742","197575","Primary","LARSEN ALBERT J",,"G2-20677CWRIS","1973-01-02","Active","DS IR       ","100","31","15"
+"197873","2208753","204764","Primary","LAMMERS THEODORE R",,"S2-21248CWRIS","1973-07-11","Active","DS        ","0.01","0.25",
+"198031","2216216","197916","Primary","THUNBERG VINETTA",,"G2-25197CWRIS","1979-04-27","Active","DM        ","30","4",
+"198047","2215750","197948","Primary","Thurston Cnty Parks & Recreation",,"G2-26334AKPCWRIS","1983-04-26","Active","DM DC IR      ","285","42.5","3"
+"198265","2215273","198381","Primary","Lake Cushman Co",,"G2-27388CWRIS","1988-07-14","Active","DM        ","145","88.28",
+"198643","2208350","205406","Primary","BEERBOWER E DALE",,"S2-22241CWRIS","1974-04-18","Active","IR        ","0.2","20","10"
+"198650","2208384","205423","Primary","WIGLEY ROSALIE",,"S2-22314CWRIS","1974-04-29","Active","DS ST       ","0.02","2",
+"198681","2216695","198768","Primary","MITTGE RAY F",,"G2-24167CWRIS","1976-05-19","Active","DS ST       ","20","1.5",
+"198746","2215630","198898","Primary","MAYER KURTIS R",,"G2-26796CWRIS","1985-09-11","Active","RE        ","25","1",
+"199261","2216295","199475","Primary","USDA/USFS",,"G2-24600CWRIS","1977-04-04","Active","DM        ","25","16",
+"199323","2215392","199602","Primary","WA Parks & Recreation Commisson",,"G2-26949CWRIS","1986-06-27","Active","DM        ","35","7",
+"199343","2215473","199641","Primary","VANLENTINE RANDY",,"G2-27127CWRIS","1987-05-26","Active","DM        ","22.5","4.5",
+"199411","2209534","206049","Primary","MCREYNOLDS D C",,"S2-00782CWRIS","1971-02-23","Active","DS        ","0.02","1",
+"199775","2214439","200062","Primary","Tacoma City",,"S2-*02525CWRIS","1919-12-11","Active","PO        ","1000",,
+"199829","2208956","206432","Primary","BAER GEORGE F",,"S2-21058CWRIS","1973-05-23","Active","DS        ","0.01","0.25",
+"200380","2206739","207101","Primary","SADA STEVEN",,"S2-26065CWRIS","1982-01-13","Active","DS        ","0.02","0.33",
+"200396","2207848","207134","Primary","Longview Memorial Park Inc",,"S2-23072CWRIS","1974-08-12","Active","IR        ","0.67","57","28.5"
+"200435","2207997","207208","Primary","ZOLLARS/IRISH",,"S2-22751CWRIS","1974-06-27","Active","DS        ","0.01","0.5",
+"200517","2214894","200623","Primary","CROWLEY LEE PAUL",,"G2-65053JWRIS","1948-01-01","Active","DS        ","9","1",
+"200995","2214139","201137","Primary","EVANS G C",,"S2-*04533CWRIS","1938-05-31","Active","DS        ","0.01",,
+"201038","2212383","201221","Primary","Fleming","W A","S2-*10892CWRIS","1951-11-26","Active","DS        ","0.01","1",
+"201450","2211787","201606","Primary","FOSNESS C",,"S2-*13461CWRIS","1955-06-08","Active","IR        ","0.04","8","4"
+"201481","2211914","201671","Primary","SCHULTZ R M ",,"S2-*12604CWRIS","1953-09-30","Active","DM FR       ","0.05","22.4",
+"201618","2212102","201950","Primary","GREER J W",,"S2-*12139CWRIS","1953-03-10","Active","IR        ","0.2","40","20"
+"201773","2211690","202261","Primary","POE L T",,"S2-*14460CWRIS","1957-08-27","Active","DS ST       ","0.01",,
+"202058","2204844","208634","Primary","GROTLE","KNUTE C.","G2-005056CL",,"Active","DG        ",,,
+"202457","2213112","202737","Primary","PETRIE R B",,"S2-*08208CWRIS","1948-01-29","Active","IR        ","0.2",,"20"
+"202666","2210746","203161","Primary","STOHL E I",,"S2-*18682CWRIS","1964-08-24","Active","DS        ","0.01","1",
+"202709","2212848","203241","Primary","RENGGLI M",,"S2-*09357CWRIS","1950-02-03","Active","IR        ","0.28","56","28"
+"203039","2204485","209690","Primary","University of WA Forestry",,"S2-006745CL",,"Active","IR        ",,,"20"
+"203130","2205214","209867","Primary","LALONDA","EDWARD J.","G2-003063CL",,"Active","DG IR ST      ",,,"3"
+"203632","2204244","209975","Primary","TODD","STEWART L.","G2-007432CL",,"Active","DG        ",,,
+"204300","2203674","211310","Primary","SPEIGHTS","TORRENCE L.","S2-008645CL",,"Active","IR        ",,,"5"
+"204533","2212702","204662","Primary","BLAKE E C",,"S2-*09831CWRIS","1950-08-15","Active","IR        ","0.33",,"54"
+"204886","2203441","211594","Primary","HARTWELL","LOIS","S2-009258CL",,"Active","ST IR       ",,,"5"
+"204892","2203466","211607","Primary","STOCKER","ERNEST L.","G2-009322CL",,"Active","DG        ",,,
+"205458","2203327","212278","Primary","HOCKETT","HAROLD L.","S2-010039CL",,"Active","DG        ",,,
+"205672","2209670","205583","Primary","HAM MICHAEL R",,"S2-00459CWRIS","1971-05-21","Active","DS        ","0.01","1",
+"205731","2209388","205709","Primary","Boscoe R",,"S2-20004CWRIS","1972-03-02","Active","IR        ","0.03","7.2","4"
+"206204","2209297","206192","Primary","BERNABICH M N & O V",,"S2-20503CWRIS","1972-09-18","Active","DS        ","0.01","1",
+"206240","2208211","206261","Primary","ANDERSEN LEROY",,"S2-22601CWRIS","1974-05-05","Active","DS ST IR      ","0.04","3.5","2"
+"206366","2206768","206513","Primary","SUNDT R M",,"S2-26195CWRIS","1982-07-12","Active","RE FR       ","0.1",,
+"207203","2200523","214003","Primary","WA State Highways Department",,"G2-016394CL",,"Active","NR        ",,,
+"207274","2207623","207431","Primary","RUNYAN LARRY ET UX",,"S2-23897CWRIS","1975-07-16","Active","DS        ","0.01","1",
+"207293","2207699","207470","Primary","EHRSAM HERB",,"S2-23404CWRIS","1974-06-21","Active","IR        ","0.42","52","26"
+"207397","2207070","207681","Primary","SMITH TONI M",,"S2-25011CWRIS","1978-07-24","Active","DS        ","0.02","1",
+"207496","2200677","214148","Primary","KETLER","DETMER H.","G2-015732CL",,"Active","IR        ",,,"1"
+"207653","2200511","214469","Primary","GROSE","CYRIL","S2-016368CL",,"Active","DG        ",,,
+"207694","2206558","207830","Primary","Baker","R","S2-65037JWRIS","1895-01-01","Active","ST        ","0.01","0.05",
+"208105","2198810","214931","Primary","LEDFORD","PORTER B.","G2-019869CL",,"Active","DG        ",,,
+"208130","2207219","208260","Primary","PERRY GEORGE ET AL",,"S2-24597GWRIS","1977-07-08","Active","IR        ","0.2","40","20"
+"208132","2207225","208262","Primary","BROOKE GEORGE C",,"S2-24611GWRIS","1977-06-29","Active","ST IR       ","0.09","8.5","4"
+"208142","2204951","208282","Primary","HARRIS","THEODORE A.","G2-005425CL",,"Active","DG IR       ",,,"2"
+"208517","2198225","215311","Primary","FISH","EMERSON","G2-021959CL",,"Active","DG ST       ",,,
+"208709","2206050","208974","Primary","ARP","WALTER H.","S2-001116CL",,"Active","DG        ",,,
+"208774","2205067","209100","Primary","SMITH","LESTER W.","G2-004210CL",,"Active","IR DG       ",,,"1"
+"209034","2204674","209171","Primary","BENNETT","FRANK S.","G2-005998CL",,"Active","DG        ",,,
+"209719","2205845","210093","Primary","MILTON","JAMES A.","G2-001816CL",,"Active","DG        ",,,
+"209757","2205476","210173","Primary","HAAS","ROGER A.","S2-002075CL",,"Active","DG IR       ",,,"5"
+"209790","2203959","210234","Primary","STEWART","PAGE","G2-008065CL",,"Active","DG        ",,,
+"209932","2199660","216336","Primary","BOROVEC","EDWIN E.","G2-018438CL",,"Active","DG        ",,,
+"210160","2197684","216796","Primary","LAMPE","LEONARD N.","G2-023020CL",,"Active","DG        ",,,
+"210264","2199520","217007","Primary","WEINBENDER","LARRY F.","G2-018155CL",,"Active","DG        ",,,
+"210465","2204882","210682","Primary","BULLIS","LEONARD L.","S2-005174CL",,"Active","ST        ",,,
+"211562","2202238","211973","Primary","ALLIE","R. E.","S2-011893CL",,"Active","ST DG       ",,,
+"211696","2203278","212253","Primary","SARGENT","RAY E.","G2-009880CL",,"Active","DG        ",,,
+"211715","2203353","212291","Primary","HOLDEN","L. W.","S2-010106CL",,"Active","DG IR       ",,,"3"
+"211744","2196600","218137","Primary","LEWELLEN","R. A.","G2-026863CL",,"Active","DG        ",,,
+"211911","2195161","218464","Primary","COCHRAN","OLIVER","G2-031080CL",,"Active","DG        ",,,
+"212670","2194788","219109","Primary","Minnerath","William","G2-031318CL",,"Active","DG        ",,,
+"212724","2196205","219222","Primary","SACHS","RAY","G2-028127CL",,"Active","ST IR DG      ",,,"1"
+"212922","2193937","219619","Primary","PRICE","GILBERT J.","G2-034073CL",,"Active","DG        ",,,
+"213253","2200422","213545","Primary","MALM","OLIVER","G2-016191CL",,"Active","DG        ",,,
+"213328","2194424","219979","Primary","COX","DAVID R.","G2-032870CL",,"Active","DG        ",,,
+"213494","2195947","220308","Primary","NORTH","CARL A.","G2-028498CL",,"Active","DG        ",,,
+"213574","2201908","213725","Primary","CARMONY","ARTHUR B.","G2-013374CL",,"Active","DG        ",,,
+"213627","2201591","213833","Primary","VANSANT","F. D.","S2-013749CL",,"Active","DG        ",,,
+"214365","2191317","221131","Primary","MOREY","NORMAN","G2-042578CL",,"Active","DG        ",,,
+"215110","2199588","215420","Primary","KEMP","CLEMINT A.","G2-018289CL",,"Active","DG        ",,,
+"215279","2198311","215762","Primary","ROBISON","LEONARD H.","S2-022207CL",,"Active","DG IR ST      ",,,"1"
+"215624","2192344","222289","Primary","BAIN","WILLIAM E.","G2-038471CL",,"Active","DG        ",,,
+"216088","2192421","222756","Primary","TOMPKINS","DALE ","G2-038717CL",,"Active","DG        ",,,
+"216161","2192253","222912","Primary","DAUGHERTY","JOSEPH B.","G2-038262CL",,"Active","DG        ",,,
+"216360","2199310","216565","Primary","JENKIN","LAURA B.","G2-018648CL",,"Active","DG        ",,,
+"217156","2191915","223577","Primary","DAY","ROY E.","S2-040199CL",,"Active","DG        ",,,
+"217182","2190501","223626","Primary","ANDERSON JR","JAMES ","G2-044072CL",,"Active","DG        ",,,
+"217224","2190684","223719","Primary","BRYAN","IRIS H.","G2-043311CL",,"Active","DG ST       ",,,
+"218254","2189264","224888","Primary","RAUTIO","WILLIAM","G2-049102CL",,"Active","DG        ",,,
+"218603","2196487","218822","Primary","HUGHES","THOMAS T.","G2-027712CL",,"Active","DG        ",,,
+"219380","2194672","219456","Primary","KRON","GEORGE","G2-032327CL",,"Active","DG        ",,,
+"219788","2195886","220276","Primary","PETERSON","CLIFFORD H.","G2-028390CL",,"Active","DG        ",,,
+"220503","2193401","220832","Primary","BILLINGSLEY","MARKUS F.","S2-035077CL",,"Active","DG        ",,,
+"220898","2187472","227473","Primary","MILLER","ZANE R.","G2-054964CL",,"Active","DG        ",,,
+"221124","2186494","227915","Primary","WEILAND","RAYMOND","G2-057698CL",,"Active","DG ST       ",,,
+"221129","2186510","227923","Primary","WELLS","DONALD D.","G2-057744CL",,"Active","ST DG       ",,,
+"221726","2192970","221936","Primary","CAMERON","ROBERT E.","G2-036319CL",,"Active","IR DG       ",,,
+"222202","2191242","222442","Primary","BISCHOFF","G. W.","G2-042338CL",,"Active","DG ST       ",,,
+"222243","2190863","222518","Primary","TALBOTT","LYLE GENE","G2-043782CL",,"Active","ST DG       ",,,
+"223067","2192056","223247","Primary","KLIPPERT","LES S.","S2-038916CL",,"Active","DG ST       ",,,
+"223153","2190892","223420","Primary","WILLIAMS","GEORGE D.","G2-043884CL",,"Active","DG        ",,,
+"223740","2185119","230422","Primary","GOODWIN","IRA L.","G2-061751CL",,"Active","DG        ",,,
+"224132","2184467","230760","Primary","COSSINS","DANIEL R.","G2-064259CL",,"Active","DG        ",,,
+"224251","2182834","231007","Primary","KNAPP","EARL E.","G2-068286CL",,"Active","DG        ",,,
+"224626","2182660","231320","Primary","MCDERMID","KENNETH J.","G2-068685CL",,"Active","DG        ",,,
+"224644","2182733","231356","Primary","GOODELL","RAY W.","G2-068771CL",,"Active","DG        ",,,
+"224692","2183157","231458","Primary","GRANT","JAMES L.","G2-068102CL",,"Active","DG ST       ",,,
+"225281","2182416","231734","Primary","SUMROK","HARRY","G2-068944CL",,"Active","DG        ",,,
+"225305","2181972","231781","Primary","JORGENSEN","QUAY","G2-069555CL",,"Active","ST DG       ",,,
+"226306","2185899","226550","Primary","MANNING","LEO E.","G2-060037CL",,"Active","ST DG       ",,,
+"226373","2181205","233012","Primary","HARDY","MELVILLE F.","S2-072785CL",,"Active","IR DG       ",,,"1"
+"226394","2181290","233055","Primary","PARKS","RICHARD A.","G2-071614CL",,"Active","DG        ",,,
+"226834","2185879","227158","Primary","BOWER","JAMES K.","G2-059960CL",,"Active","DG ST       ",,,
+"227049","2181552","233470","Primary","TILLMAN","W. D.","G2-070912CL",,"Active","DG        ",,,
+"227549","2185493","227695","Primary","GAYLORD","LURA E.","G2-060119CL",,"Active","DG        ",,,
+"227753","2185273","228121","Primary","BARRETT","HOMER","G2-060762CL",,"Active","DG        ",,,
+"227981","2179613","234448","Primary","GANO","RONALD","G2-078083CL",,"Active","DG ST       ",,,
+"228701","2179838","235434","Primary","TANKERSLEY","CHARLES A.","G2-077273CL",,"Active","DG        ",,,
+"228750","2177446","235532","Primary","BARRATT","JOHN T","G2-084017CL",,"Active","DG        ",,,
+"228796","2177628","235621","Primary","NEWMAN","ROSS ","G2-083070CL",,"Active","DG        ",,,
+"229105","2179192","235776","Primary","HAMILTON","VERNON D.","G2-078149CL",,"Active","ST DG       ",,,
+"229169","2177917","235909","Primary","DORAN","CHARLES W.","G2-082469CL",,"Active","DG ST       ",,,
+"229194","2177474","235955","Primary","HANSON","RODNEY","G2-084135CL",,"Active","DG        ",,,
+"230161","2178940","236996","Primary","AUSETH","PATRICK J.","G2-080142CL",,"Active","DG        ",,,
+"230183","2176440","237039","Primary","MYERS","PETER O.","G2-088551CL",,"Active","DG        ",,,
+"230435","2183380","230352","Primary","WHALEY","ROY M.","S2-067570CL",,"Active","DG        ",,,
+"230483","2184644","230448","Primary","RIDDELS","CARL D.","G2-063021CL",,"Active","DG ST       ",,,
+"230740","2176429","237716","Primary","MULLINS JR","ORBIE ","G2-088503CL",,"Active","ST DG       ",,,
+"231221","2182374","231442","Primary","BIGELOW","THOMAS C.","G2-068882CL",,"Active","DG        ",,,
+"231824","2175725","238568","Primary","MACE","GLENN A","S2-090503CL",,"Active","IR        ",,,
+"232036","2182463","232179","Primary","ROY","EDWIN L.","G2-068998CL",,"Active","DG IR       ",,,"5"
+"232098","2184570","232302","Primary","WEINBERG","LOWELL C.","S2-064469CL",,"Active","DG        ",,,
+"232175","2181700","232463","Primary","RANN","WALTER A.","G2-069848CL",,"Active","DG        ",,,
+"232640","2181588","232937","Primary","M R Smith Shingle Co ",,"S2-071012CL",,"Active","DG        ",,,
+"233086","2181893","233372","Primary","ZAHASKV","HENRY L","G2-070536CL",,"Active","DG        ",,,"2"
+"233105","2178392","239770","Primary","SHEETS","NIEL C.","G2-081198CL",,"Active","DG ST       ",,,
+"233461","2180635","233668","Primary","MYHRE","CLIFFORD W.","G2-073737CL",,"Active","DG        ",,,
+"233555","2174685","240216","Primary","HASELTON","A S","G2-094648CL",,"Active","IR DG       ",,,
+"233974","2180007","234241","Primary","ROTONDO","TONY V.","G2-076379CL",,"Active","DG        ",,,
+"234252","2180350","234345","Primary","MORRIS","C. H.","G2-074201CL",,"Active","DG        ",,,
+"234499","2172101","241216","Primary","ROSE","ROBERT P","G2-102714CL",,"Active","ST DG       ",,,
+"234982","2179340","234904","Primary","MATCHETT","ROBERT","G2-078674CL",,"Active","DG        ",,,
+"235310","2173594","242357","Primary","GRAY","LENARD S","G2-097242CL",,"Active","ST IR DG      ",,,
+"235647","2171298","242576","Primary","CAGLE","LAWRENCE G","G2-105740CL",,"Active","DG        ",,,
+"236213","2173598","243249","Primary","HALL","WILLIAM A","G2-097254CL",,"Active","DG        ",,,
+"237026","2173332","243980","Primary","FREY","ROBERT M","G2-099496CL",,"Active","DG        ",,,
+"237534","2169810","244542","Primary","BROCK","CHARLIE W","G2-109545CL",,"Active","DG        ",,,
+"237996","2173054","245009","Primary","ARNESON","PHILIP E","G2-100119CL",,"Active","IR        ",,,
+"238016","2172601","245049","Primary","STEPHENS","IRVIN R","G2-101604CL",,"Active","DG ST       ",,,
+"238239","2178600","238252","Primary","SCHULTZE","WOODROO W.","S2-080463CL",,"Active","DG ST       ",,,
+"238268","2178711","238308","Primary","RADEL","ORVILLE W.","G2-080802CL",,"Active","DG        ",,,
+"238641","2175773","238592","Primary","DALTON","CHARLES F","G2-090602CL",,"Active","DG        ",,,
+"238845","2168019","245800","Primary","HEMENWAY","S","S2-115734CL",,"Active","IR ST DG      ",,,"40"
+"239550","2175174","239516","Primary","LAHTI","ROBERT","S2-091595CL",,"Active","ST DG       ",,,
+"239569","2175250","239555","Primary","GILBREATH JR","MILLARD ","S2-091855CL",,"Active","ST DG IR      ",,,
+"239608","2174873","239638","Primary","NIEMI","MARTIN","G2-093434CL",,"Active","DG        ",,,
+"239743","2168175","246695","Primary","YANN","GEORGE","S2-116215CL",,"Active","DG        ",,,
+"240140","2174211","240249","Primary","WEBB JR","ROBERT ","S2-096273CL",,"Active","DG IR       ",,,
+"240181","2174387","240336","Primary","TANGEN","LLOYD G","G2-095194CL",,"Active","DG IR       ",,,"2"
+"241041","2173877","241141","Primary","HORGEL","C CALVIN","G2-096691CL",,"Active","ST DG       ",,,
+"241758","2171691","241689","Primary","HOWARD","ANNA A","G2-104195CL",,"Active","DG        ",,,
+"241929","2171320","242039","Primary","BENSON","VERNON","G2-105762CL",,"Active","DG        ",,,
+"242030","2171192","242246","Primary","HESTER","RICHARD R","G2-105383CL",,"Active","DG IR       ",,,
+"242360","2171189","242928","Primary","LITTLE","LARRY D","G2-105377CL",,"Active","IR ST DG      ",,,
+"242761","2163656","249142","Primary","FRIES","ANTONE P","G2-132531CL",,"Active","DG        ",,,
+"242834","2165679","249272","Primary","JENKINS","R LANCE","G2-126270CL",,"Active","DG        ",,,
+"243140","2163839","249908","Primary","FEGLES","RAYMOND L","G2-132120CL",,"Active","DG        ",,,
+"243836","2169430","244073","Primary","THOMPSON","BILL L","G2-111630CL",,"Active","ST DG       ",,,
+"244231","2163278","250714","Primary","OBER","ROLAND C","S2-132684CL",,"Active","IR DG ST      ",,,
+"244627","2162395","251078","Primary","GATCHET","JOHN","G2-135699CL",,"Active","DG IR       ",,,
+"244725","2162505","251269","Primary","SCHAEFER","DAVID H","G2-136026CL",,"Active","IR DG       ",,,
+"245850","2162006","252643","Primary","CULLENS","JOHN W","G2-137352CL",,"Active","DG        ",,,
+"245963","2168053","246088","Primary","FINK","IVAN K","S2-115830CL","1939-04-01","Active","DM IR       ","9","2","2"
+"245969","2168075","246098","Primary","DEXTER","EDWIN C","S2-115947CL",,"Active","DG        ",,,
+"246214","2161751","252918","Primary","PERSSON","ALFRED","G2-137974CL",,"Active","DG        ",,,
+"247160","2167520","247575","Primary","WALLIS","DOUG","S2-119153CL",,"Active","ST DG       ",,,
+"247432","2160919","253990","Primary","SCHLAFLE","FRED","G2-141218CL",,"Active","IR DG       ",,,
+"248506","2159603","255226","Primary","ZIELINSKI","LOLA","G2-145316CL",,"Active","ST DG       ",,,
+"249094","2165554","249210","Primary","McDANIEL","SILAS W","G2-125742CL",,"Active","DG        ",,,
+"249322","2159785","255943","Primary","ROBERTS","DON D","G2-144106CL",,"Active","DG IR       ",,,
+"249641","2156773","256610","Primary","CHAPMAN","R A","G2-156948CL",,"Active","IR DG       ",,,"20"
+"249678","2156377","256680","Primary","DI DENTI","LOUIE","S2-157159CL",,"Active","NR        ",,,
+"249843","2157024","257007","Primary","WILSON PACKING CO",,"G2-154628CL",,"Active","NR        ",,,
+"249858","2157078","257036","Primary","AURDAL","OLE ","G2-154740CL",,"Active","DG IR       ",,,"3"
+"250274","2165426","250223","Primary","HOLDSWORTH","FRED J","S2-126824CL",,"Active","IR        ",,,
+"251329","2165476","251417","Primary","HOMESTEAD","CAROL E","G2-126937CL",,"Active","DG        ",,,
+"251351","2165016","251457","Primary","DAVIDSON","ROBERT R","S2-128370CL",,"Active","DG IR       ",,,
+"251398","2163050","251546","Primary","WOODLEY","EARL","G2-134861CL",,"Active","DG        ",,,
+"251479","2162305","251711","Primary","LINDAUER","WALTER J","G2-136795CL",,"Active","DG        ",,,
+"251667","2165214","252095","Primary","DE GROSS","S G","G2-127602CL",,"Active","DG        ",,,"60"
+"252106","2158822","258839","Primary","Port Blakely Mill Co",,"G2-147681CL",,"Active","ST DG       ",,,
+"252368","2161879","252579","Primary","WOMACK","RONDEL G","G2-138458CL",,"Active","ST DG       ",,,
+"252429","2161563","252692","Primary","CROSKEY","ROBERT O","S2-138865CL",,"Active","ST DG       ",,,
+"252633","2154630","259451","Primary","TILLER","LOWELL L","G2-163304CL",,"Active","IR DG ST      ",,,
+"252639","2154656","259464","Primary","McDONALD","DAVID O","G2-163409CL",,"Active","DG        ",,,"1"
+"252902","2154273","259543","Primary","RURAL LAND CO OF WA",,"B2-200276CL",,"Active","ST IR DG      ",,,"0"
+"252939","2155756","259617","Primary","MILLER","GENE A","G2-159745CL",,"Active","DG        ",,,
+"253107","2154816","259952","Primary","SMITH","CARROLL E","S2-162404CL",,"Active","DG IR ST      ",,,
+"253161","2153955","260061","Primary","STUDER","SHIRLEY A.","G2-200402CL",,"Active","DG        ",,,
+"253397","2154434","260520","Primary","SUMMERS","CHARLES B","S2-164111CL",,"Active","IR DG       ",,,"2"
+"254432","2158735","254482","Primary","SWIFT","DONALD E","G2-148822CL",,"Active","DG IR       ",,,"5"
+"254510","2152293","261386","Primary","HEBB P H",,"S2-*09747AWRIS","1950-07-07","Inactive","PO        ","1500",,
+"255312","2158003","255338","Primary","WETHERBEE","MARGURITE","G2-151334CL",,"Active","DG ST       ",,,
+"255364","2158219","255445","Primary","SIMMONS","LUTHER I","G2-150048CL",,"Active","DG IR       ",,,
+"256074","2157951","255985","Primary","THOMAS","RUSSELL S","S2-151056CL",,"Active","DG ST       ",,,
+"256251","2157006","256322","Primary","FOSTER","MICHAEL S","G2-155971CL",,"Active","IR DG       ",,,
+"256768","2151527","263673","Primary","CLAPP M N J R",,"S2-*19681AWRIS","1966-05-27","Inactive","IR        ","3",,"140"
+"257210","2148471","264100","Primary","MEITZLER T C",,"S2-*18119PWRIS","1963-08-20","Inactive","DS FS IR      ","0.1",,
+"257537","2156169","257522","Primary","ALLEN","LEONARD M","G2-158002CL",,"Active","DG        ",,,
+"257926","2159179","257854","Primary","DIGBY","EVAN E","G2-147350CL",,"Active","ST DG       ",,,
+"258434","2156339","258421","Primary","CLARK","GERALDINE F","G2-157007CL",,"Active","ST DG IR      ",,,
+"258939","2158570","258982","Primary","CUMMINS","RONALD K","S2-148152CL",,"Active","ST        ",,,
+"259142","2147135","266159","Primary","Rainier View Water Co",,"CG2-00631","1999-07-19","Inactive","DM        ","50","6.75",
+"259182","2147286","266235","Primary","Washington Water Service",,"G2-29809","1998-10-14","Active","MU        ","20","17.2",
+"259647","2146335","266721","Primary","Michel Development",,"S3-302057CL","1884-01-01","Active","IR ST       ","3","1200","160"
+"260166","2153982","260076","Primary","FERRELL","RICK D.","B2-200439CL",,"Active","DG ST IR      ",,,"0"
+"260411","2146331","267368","Primary","Michel Development",,"S3-302052CL","1884-01-01","Active","ST IR       ","5","1800","320"
+"260823","2146250","267748","Primary","ROSENBERG","C","S3-301052CL","1911-04-01","Active","ST DG       ","0.01","8",
+"261097","2152500","261073","Primary","Lewis Cnty PUD 1",,"S2-*08750AWRIS","1949-04-06","Inactive","PO        ","110",,
+"261219","2153915","261317","Primary","HILL EUGENE ET AL",,"G2-*06526AWRIS","1962-10-23","Inactive","CI        ","100",,
+"261633","2152505","261700","Primary","Lewis Cnty PUD 1",,"S2-*08776AWRIS","1949-05-06","Inactive","PO        ","110",,
+"261693","2145810","268575","Primary","Marlin Hutterian Brethren ",,"CG3-*04154","2000-12-08","Inactive","IR        ","500","400",
+"261938","2153327","261859","Primary","Lewis Cnty PUD 1",,"R2-*13726AWRIS","1956-02-01","Inactive","SR        ",,"70000",
+"262144","2149231","269029","Primary","WA State Fish & Wildlife Department - SWRO",,"S2-*09763PWRIS","1950-07-13","Inactive","DS FS       ","0.2",,
+"262167","2149313","269070","Primary","ARMSTRONG E K ",,"S2-*07609ALPWRIS","1947-01-23","Inactive","IR        ","0.25",,"25"
+"263073","2144750","269975","Primary","Reller","Howard","CS3-*13042JWRIS","2002-10-02","Inactive","IR        ","0.222",,
+"263077","2144768","269984","Primary","GWL Inc",,"G3-00753","1972-02-07","Active","DM        ","50","27",
+"263151","6752247","315084","Primary","Hillis","Orville","G1-20429","1973-01-26","Active","DS        ","10","1",
+"263791","2151133","263738","Primary","Broughton Lumber Co",,"S2-25752AWRIS","1980-11-20","Inactive","PO        ","30",,
+"263886","2148663","263932","Primary","ROBERTS EARL H",,"S2-*13042PWRIS","1954-07-27","Inactive","IR        ","0.2",,"20"
+"264043","6799613","317879","Primary","Tarau","Viorel & Emilia","G3-QB1719","2016-07-27","Inactive","IR        ","50","17.5","5"
+"264517","2150698","264746","Primary","RUSU PERKINS & ANDER",,"G2-*06213PWRIS","1962-03-13","Inactive","DM RE       ","200","160",
+"265179","2148210","265171","Primary","LESTER TED W",,"S2-00455PWRIS","1972-02-25","Inactive","ST DS       ","0.015","1.5",
+"265717","2150032","265811","Primary","Weyerhaeuser Timber Co",,"G2-25987PWRIS","1981-07-21","Inactive","CI        ","3000","4839",
+"265962","2148116","265849","Primary","MATELICH A",,"S2-*21221AFPWRIS","1968-09-11","Inactive","DS FS       ","0.46","1",
+"266490","2149744","266458","Primary","BROWNING SAM",,"S2-*02860PWRIS","1930-02-25","Inactive","DS        ","0.03",,
+"266649","5801932","322134","Primary","Bonneville Power Administration",,"G3-30689","2013-06-25","Active","HE        ","200","0",
+"266792","6802291","322632","Primary","Boistfort Valley Water Corporation",,"CS2-SWC10091(B)@1","2019-06-26","Active","MU        ","0.2","40",
+"266897","2147399","266829","Primary","Lewis Cnty PUD 1",,"R2-25781","1981-02-20","Active","MU SR       ",,"11",
+"266906","2147442","266851","Primary","Zimmaro","John","S2-29708","1998-07-06","Active","IR        ","0.05",,"8"
+"267054","2146975","267156","Primary","Michel Development",,"S3-302134CL","1883-01-01","Active","IR ST       ","3","380","160"
+"267142","2146788","267328","Primary","LAYTON","FLOYD","S3-300421CL","1898-06-01","Active","IR        ","0.04","6","3"
+"267783","4758479","323341","Primary","Jenson","John C","S4-85116-J","1889-06-30","Active","IR        ","0.05","13.93","2.58"
+"267926","6381394","323622","Primary","Roan","J P","S4-85197-J","1877-11-02","Active","IFlow        ","1.394","372.17",
+"267951","4758230","323668","Primary","Washington Water Trust ",,"S4-84113-J","1873-06-30","Active","IFlow        ","28.8","0",
+"268585","4214274","268895","Primary","Christenson","David","CS4-00262CTCL","2004-11-24","Active","IR ST       ","0.67","120","75.4"
+"268694","2149396","269111","Primary","THOMPSON HEZEKIAH C",,"S2-*05897PWRIS","1943-09-08","Inactive","ST IR       ","0.05",,"5"
+"268970","6801502","324340","Primary","Markus","Randy J.","S4-85360-J","1877-06-15","Active","IR ST IR ST IR ST IR ST ","0.098","24.45","4.89"
+"269120","2144998","269524","Primary","Fore","Oran","G3-CV1-3P136","1945-05-28","Active","IR IR       ","1000","450","100"
+"269230","2144897","269742","Primary","Connell City",,"CG3-*05305C","2002-04-16","Inactive","MU        ","960","1536",
+"269934","6802596","326596","Primary","WA Ecology Dept - Union Gap",,"S4-85140-J(B)","1900-06-30","Active","IFlow MT       ","0.142","15.48",
+"270104","6799120","317046","Primary","Pasco City of",,"CG3-22491@1","2020-02-13","Inactive","MU        ","2160","1037",
+"270141","6799127","317242","Primary","Twisp Town",,"G4-33098(B)","2013-10-28","Active","MU        ","620","248.4",
+"270730","6799520","317713","Primary","Farmland Reserve Inc dba K2H Farms",,"CS4-16312(A1)P@6","2016-01-26","Inactive","IR        ","22.58","4336","1213"
+"270937","6799691","318395","Primary","Burchak *","George","G4-35879","2016-09-19","Active","DS IR       ",,"0.414","0.011"
+"270956","6799895","318460","Primary","WA Ecology Department",,"S3-*11580C(B)","1952-08-11","Active","IFlow IFlow IFlow      ","0.221","135",
+"271034","6800083","318812","Primary","Corbett Draw Farms GP /Susan Hegney/ Jerry Sheffel",,"CG3-01224C(SC17)","2017-02-16","Inactive","IR        ","6000","3744","936"
+"271303","6804029","328927","Primary","Nelson","Dustin","G1-29225M","2019-08-19","Active","DS        ","318",,
+"271606","6800309","319215","Primary","Hergesheimer","Gale","S3-66021J","1899-01-01","Active","IR        ","0.2","45","15"
+"271668","4187041","319406","Primary","Gustafson","Bruce","S1-28211C","2004-05-07","Active","DS        ","0.01","0.4",
+"271890","6800835","320158","Primary","Clark Cnty PUD 1",,"CG2-GWC5921","1985-11-25","Inactive","DM        ","200","322",
+"271957","2144725","320414","Primary","Mattawa City of",,"G3-26104","1978-11-20","Active","MU        ","500","560",
+"272334","6805038","330563","Primary","Clark","Ryan","CS4-83449-J@4","2023-02-27","Active","IR ST CN      ","1.6","290.92","48.32"
+"272735","6801566","321529","Primary","Crape","Herman","CS1-00337CWRIS","2018-07-26","Inactive","IR        ","0.35","64","20"
+"273630","4222991","332552","Primary","Sea to Sky Onsen (USA), Inc.",,"S1-28237","2005-03-08","Active","RE        ","0.089","65",
+"273853","6806759","333202","Primary","CRANDALL","JOHN ","CS3-SWC10765","2025-02-03","Active","IFlow        ","0.2","45","15"
+"273864","6806724","333250","Primary","Tschirky","Ted","CG3-01001C(SC25)","2025-01-23","Inactive","IR        ","1250","582.5","250"
+"274127","4762072","322944","Primary","Hargroves","E. Lee","S4-83108-J","1881-06-30","Active","IR        ","0.39","58.2","19.4"
+"274166","4742525","323030","Primary","Miner","Gary L.","S4-84808-J","1855-06-09","Active","IR ST       ","0.106","37.4","8.5"
+"274455","4763181","323601","Primary","Burzenski","Selma M.","S4-83927-J","1886-06-30","Active","IR        ","0.813","286.7","24.5"
+"274585","6807190","334019","Primary","Rodeo/Selah Ranch LLC",,"G4-36235","2025-08-08","Inactive","IR        ","1000","20.7","129"
+"275010","6807127","334606","Primary","Malaga-Colockum Community Council - Vicky Malloy",,"CG4-24695@1","2025-06-12","Active","IR DS       ","150","27.77","6.4"
+"275036","6807643","334715","Primary","Cochran","Jeffrey L. and Terry G.","G3-QB0060(B)","1971-12-03","Active","IR        ","1050","490","140"
+"275118","6807574","334956","Primary","Marlin Hutterian Brethren ",,"CG3-01118C(SC26)","2026-02-03","Active","IR        ","2000","1073.25","429.3"
+"275337","6805573","335452","Primary","Stroup","Rochelle ","S1-29563","2023-06-21","Active","DS        ","0.02","0.5",
+"275343","6808063","335468","Primary","Boyne Properties-Washington, LLC, care of, Ski Lif",,"R4-36295","2026-08-03","Active","SR        ",,"400",
+"275416","6808147","335622","Primary","Stevens Land Holdings LLC",,"CG3-01609@1(A)","2025-01-21","Active","IR        ","612","410","164"
+"275469","4750453","324249","Primary","Minor","Brent","S4-84308-J","1881-06-30","Active","IR ST IR ST IR ST IR ST ","0.4","101","20"
+"275470","4753927","324251","Primary","Minor","Brent","S4-84310-J","1882-06-30","Active","IR ST IR ST IR ST IR ST ","2.3","579","115"
+"275471","4764228","324254","Primary","SK Ranches, Inc",,"S4-84313-J","1880-06-30","Active","IR ST IR ST IR ST IR ST ","2","331.72","120"
+"276265","6803141","327540","Primary","Stevens Cnty PUD 1/Darrel Hawes, Gen Mgr",,"CG3-25373C(A)@4","2020-08-03","Active","GP        ","102.75","80.32","36.68"
+"276275","6803173","327582","Primary","Spokane County Water District No. 3",,"G3-30902","2020-08-26","Active","MU        ","2200",,
+"276443","6803564","328150","Primary","Sedgwick","Cody","G1-29363M","2021-04-07","Active","DS        ","318","0.36","0.13"
+"276561","6803483","328485","Primary","Dick Bedlington Farms, LLC",,"CS1-SWC8182@1","2021-03-19","Inactive","IR        ","0.4","80","40"
+"276811","6804205","329137","Primary","Deboer","Shane","G1-29126M","2019-08-19","Active","DS        ","318",,
+"276985","6804509","329610","Primary","Chewuch Canal Company ",,"R4-00497","1920-03-05","Active","SR        ",,"1000",
+"277210","6804896","330320","Primary","Raymond & Diana Goff Revocable Trust",,"CG3-*00125S(D)","2023-01-02","Active","GP        ",,"25.58",
+"277365","6805212","330834","Primary","Hintz Land LLC",,"G3-QB1612","2011-02-16","Active","IR        ","175","61.25","17.5"
+"277472","2086381","331165","Primary","Moody","Tad","G4-31739","1993-05-17","Inactive","IR DS       ","80",,"10"
+"277658","6805801","331789","Primary","Stahl Hutterian Brethren Trust",,"CG3-*07661C(SC24)","2024-01-23","Inactive","IR        ","1150","1546","1200"
+"278160","6806843","333323","Primary","San Juan Park & Recreation District",,"CG1-28301","2025-03-04","Active","IR        ","40","18.5","10"
+"278848","6807919","335232","Primary","WA State Department of Fish and Wildlife",,"CS4-024622CL","2026-05-21","Active","IFlow        ","0.01","0.5",

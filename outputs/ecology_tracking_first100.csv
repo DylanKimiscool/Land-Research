@@ -1,0 +1,101 @@
+"OBJECTID","WR_Doc_ID","WaRecPhaseId","PartyRoleTypeCode","PersonLastOrOrganizationNM","PersonFirstNM","WaRecPrimaryNumber","PriorityDate","WaRecProcessStatusTypeCode","PurposeOfUseTypeCodes","InstantaneousQuantity","AnnualVolumeQuantity","IrrigatedAreaQuantity"
+"1","2142572","1","Primary","MCEVOY C H",,"G3-*01277CWRIS","1949-11-21","Active","IR        ","250","180","60"
+"2","2142573","2","Primary","SCHEMPP O E",,"G3-*01281CWRIS","1949-11-26","Active","DS        ","35","12",
+"3","2142582","6","Primary","NETT J",,"G3-*00723CWRIS","1948-02-04","Active","DS IR       ","45","36","9"
+"4","2142583","7","Primary","Kenyon","Robert","G3-*00724SWRIS","1938-06-01","Active","IR        ","100","20","5"
+"5","2142591","11","Primary","Model Water & Light Co",,"G3-*00736S","1912-01-01","Inactive","MU IR MU      ","4200","779",
+"6","2142592","12","Primary","Pasadena Park Water Company",,"G3-*00738S","1932-10-01","Inactive","CI DG       ","1250","127",
+"7","2142597","13","Primary","LONEY D S",,"G3-*00743CWRIS","1948-02-21","Active","IR        ","34","20","5"
+"8","2142598","14","Primary","Consolidated Irrigation Dist 14",,"G3-*00744S","1909-01-01","ChangeInProgress","DM        ","425","62",
+"9","2142607","18","Primary","Orchard Avenue Irrigation District 6",,"G3-*00753S","1922-01-01","Active","DS IR FR      ","6360","1970","480"
+"10","2142608","19","Primary","Bates","Paul","G3-*00759CWRIS","1948-03-05","Active","IR        ","300","200","50"
+"11","2142616","23","Primary","Gabbert","A","G3-*00767S","1907-01-01","Inactive","IR        ","1000","450","100"
+"12","2142617","24","Primary","Boeh","L","G3-*00768SWRIS","1913-01-01","Active","DS ST IR      ","1700","200","50"
+"13","2142622","25","Primary","GARRETT A",,"G3-*00776S","1940-07-01","Active","DS IR       ","400","120","30"
+"14","2142623","26","Primary","GARRETT F L / SONS",,"G3-*00777SWRIS","1938-07-01","Active","DS IR       ","250","84","21"
+"15","2142632","30","Primary","PEUCK H D",,"G3-*00792CWRIS","1948-03-31","Active","CI        ","150","40",
+"16","2142633","31","Primary","ZENTNER A H",,"G3-*00792SWRIS","1942-05-01","Active","DS IR       ","25","6","1.5"
+"17","2142641","35","Primary","Prescott City",,"G3-*00807CWRIS","1948-04-09","Inactive","MU        ","100","65",
+"18","2142642","36","Primary","Kriete","George","G3-*00807S","1915-01-01","Inactive","DS IR       ","300","200","40"
+"19","2142647","37","Primary","Rizzuti","Frank","G3-*00813S","1920-01-01","Inactive","IR        ","120","33.75","7.5"
+"20","2142648","38","Primary","HARRIS R O / G M",,"G3-*00819CWRIS","1948-04-22","Active","DS IR       ","150","12","2"
+"21","2142651","41","Primary","Davin","Louise","G3-*00822S","1918-01-01","Active","IR IR       ","292.5","276","69"
+"22","2142657","43","Primary","Chapman","Lide","G3-*00831S","1908-01-01","ChangeInProgress","DS IR       ","800","180","40"
+"23","2142658","44","Primary","LUND A E",,"G3-*00832CWRIS","1948-04-30","Inactive","DS ST IR      ","800","320","80"
+"24","2142664","46","Primary","LUTCHER E C",,"G3-*00843SWRIS","1940-03-01","Inactive","IR        ","141","128","64"
+"25","2142667","49","Primary","Buck","Carl","G3-*00848SWRIS","1923-01-01","Active","IR        ","15","4","1"
+"26","2142673","51","Primary","Peters","Albert","G3-*00858C","1948-05-17","Active","DS IR       ","1150","360","90"
+"27","2142674","52","Primary","College Place School Dist 31",,"G3-*00858SWRIS","1941-05-01","Active","IR        ","50","20","5"
+"28","2142682","56","Primary","Mocaer","Frank","G3-*00872SWRIS","1922-04-01","Active","DS IR       ","250","113","25"
+"29","2142683","57","Primary","LYBBERT B",,"G3-*00873S","1930-01-01","Inactive","DS IR       ","600","166.5","37"
+"30","2142689","59","Primary","Gibby","L","G3-*00879S","1945-04-01","Active","IR        ","300","96","24"
+"31","2142692","62","Primary","Wyatt","Vernon","G3-*00883C(A)","1948-05-29","Active","DS IR       ","13","20","5.5"
+"32","2142698","63","Primary","CARTER JOHN J",,"G3-*00890CWRIS","1948-06-04","Inactive","DS IR       ","500","180","40"
+"33","2142699","64","Primary","Damon","Don","G3-*00890SWRIS","1900-01-01","Inactive","DS IR       ","10","10",
+"34","2142707","68","Primary","Whiteman","M","G3-*00901SWRIS","1932-01-01","Active","IR        ","50","20","7"
+"35","2142708","69","Primary","WILSON F F",,"G3-*00905CWRIS","1948-06-07","Active","IR        ","100","72","18"
+"36","2142714","71","Primary","Spokane Portland & Seattle Railway Co",,"G3-*00914SWRIS","1908-01-01","Active","RW DG       ","200","56",
+"37","2142717","74","Primary","ROSS F T",,"G3-*00922CWRIS","1948-06-15","Active","IR        ","110","75","25"
+"38","2142723","75","Primary","Pomeroy City",,"G3-*00943SWRIS","1942-06-01","Active","MU        ","500","130",
+"39","2142724","76","Primary","Green Tank Irrigation Dist 11",,"G3-*00944","1910-01-01","Active","MU        ","350","82","20"
+"40","2142732","80","Primary","Bower","Wm.","G3-*00952SWRIS","1926-04-01","Active","DS IR       ","16.67","10.5","2.12"
+"41","2142733","81","Primary","Lind Town",,"G3-*00953C","1948-07-16","Inactive","MU        ","500","800",
+"42","2142739","83","Primary","Lind Town",,"G3-*00522S","1903-01-01","Active","MU        ","285","176.5",
+"43","2142742","86","Primary","LINN R",,"G3-*00529SWRIS","1945-03-01","Active","DS IR       ","8","6.5","3"
+"44","2142748","87","Primary","JESKE E",,"G3-*00538CWRIS","1947-04-28","Active","MU        ","50","68.7",
+"45","2142749","88","Primary","Artesian Irrigation Dist 8",,"G3-*00538SWRIS","1909-01-01","Active","DM IR       ","170","100","22.22"
+"46","2142757","92","Primary","Booher","J","G3-*00558SWRIS","1924-01-01","Active","IR        ","900","80","20"
+"47","2142758","93","Primary","Anderson","Carl","G3-*00558C","1947-06-10","Active","DS IR       ","300","240","60"
+"48","2142764","95","Primary","Grieb","Bert","G3-*00566SWRIS","1917-06-15","Active","DS IR       ","210","75","20.65"
+"49","2142767","98","Primary","Eickmeyer","Andrew","G3-*00571SWRIS","1910-01-01","Active","DS IR       ","60","30","20"
+"50","2142768","99","Primary","Para","John","G3-*00572SWRIS","1919-01-01","Active","IR        ","750","80","20"
+"51","2142773","100","Primary","Hanson","Clarence","G3-*00578SWRIS","1917-01-01","Active","IR        ","250","202","55"
+"52","2142774","101","Primary","Hanson","Clarence","G3-*00579SWRIS","1917-01-01","Active","IR        ","250","202","53.33"
+"53","2142783","106","Primary","Kahlin","Henry","G3-*00585SWRIS","1933-03-01","Active","DS IR       ","200","25","5"
+"54","2142784","107","Primary","GUMP G F",,"G3-*00589CWRIS","1947-07-18","Active","IR        ","75","24","6"
+"55","2142246","108","Primary","USARMY Corps Engineers",,"G3-*02855C","1952-11-18","ChangeInProgress","DM        ","1000","1600",
+"56","2142247","109","Primary","Isaak","Harold","G3-*02857C","1952-12-09","Inactive","DS IR       ","1200","800","200"
+"57","2142255","112","Primary","HUNTER T N",,"G3-*02930CWRIS","1953-01-14","Active","DS IR       ","30","12","3"
+"58","2142256","113","Primary","USARMY Corps Engineers",,"G3-*02935CWRIS","1953-01-20","Active","IR        ","30","10","2"
+"59","2142265","118","Primary","Ralls","James","G3-*01294C","1949-11-28","Inactive","IR        ","1500","972","243"
+"60","2142266","119","Primary","GREENWALT J JR",,"G3-*01298CWRIS","1949-12-07","Active","IR        ","300","160","40"
+"61","2142271","120","Primary","US Bureau Reclamation",,"G3-*01318CWRIS","1949-12-23","Active","DG        ","50","10",
+"62","2142272","121","Primary","Hobson","John","G3-*01321C","1949-12-28","Active","DS ST IR      ","850","340","85"
+"63","2142275","124","Primary","HART J",,"G3-*01328CWRIS","1950-01-03","Active","IR DS       ","200","56","14"
+"64","2142281","126","Primary","Yenney","John","G3-*01354CWRIS","1950-01-26","Active","DS IR       ","20","14","3.5"
+"65","2142282","127","Primary","Kagele","Jake","G3-*01361C","1950-02-06","Inactive","DS IR       ","400","280","70"
+"66","2142290","131","Primary","Wahl","Clarence","G3-*01388C","1950-03-01","ChangeInProgress","IR        ","1000","400","100"
+"67","2142291","132","Primary","EDWARDS E",,"G3-*01389CWRIS","1950-03-01","Active","IR        ","1100","490","140"
+"68","2142296","133","Primary","GRIMES J E",,"G3-*01406CWRIS","1950-03-10","Active","DS IR       ","50","6","1.5"
+"69","2142297","134","Primary","RESER B D",,"G3-*01421CWRIS","1950-03-20","Active","IR        ","500","255","85"
+"70","2142300","137","Primary","RAUGUST W C",,"G3-*01444CWRIS","1950-04-04","Active","IR        ","1200","520","130"
+"71","2142306","139","Primary","Derting","Ernest","G3-*01510C","1952-05-10","Active","IR        ","250","152","38"
+"72","2142307","140","Primary","SAUER G P",,"G3-*01515CWRIS","1950-05-17","Active","DS IR       ","85","40","10"
+"73","2142313","142","Primary","CROWLEY W",,"G3-*01555CWRIS","1950-06-13","Active","IR        ","84","45","15"
+"74","2144406","144","Primary","Wicklund","Allan","G3-28621","1989-04-17","Inactive","IR DS       ","20","0","10"
+"75","2144409","147","Primary","Hochstatter","Harold","G3-28630","1989-05-24","Active","DM        ","200","20",
+"76","2144410","148","Primary","Bennett","W","G3-28641","1989-03-08","Inactive","IR        ","1000",,"830"
+"77","2144415","149","Primary","Basterrechea","Juan","G3-28664","1989-08-07","Active","IR        ","472","171.5","49"
+"78","2144416","150","Primary","Latah Town",,"G3-28673","1989-09-27","Active","MU        ","500","100",
+"79","2144425","155","Primary","Bartrand","David","G3-28726","1990-01-16","Inactive","IR        ","200","140","35"
+"80","2144431","157","Primary","Herbes","Mark","G3-28749C","1990-03-06","Active","IR        ","60","36","18"
+"81","2144434","160","Primary","Columbia Springs Estates Homeowners Association",,"G3-28759","1990-01-22","Active","DM        ","200","60",
+"82","2144435","161","Primary","Mountain View Estates Water Association",,"G3-28764","1990-04-16","Active","DM        ","150","10",
+"83","2144440","162","Primary","Christofferson","Alfred","G3-28792","1990-06-11","Inactive","DS        ","10","2",
+"84","2144441","163","Primary","Carlyle J",,"G3-28798","1990-06-11","Active","IR        ","50","51","11"
+"85","2144450","168","Primary","SANDS","CARROLL & GENEVIEVE","G3-28838","1991-04-24","Inactive","ST DM IR      ","1200",,"73"
+"86","2144451","169","Primary","KUBAS","EMIL","G3-28839","1990-08-24","Inactive","DM        ","30",,
+"87","2144459","172","Primary","I B P Inc",,"G3-28860","1991-04-01","Active","IR DG       ","1000","559","120"
+"88","2144460","173","Primary","SULGROVE","ROY T. & DARLENE J.","G3-28862","1990-09-25","Inactive","IR        ","650","73.5","35"
+"89","2144465","174","Primary","WA DNR",,"G3-26144","1979-01-22","ChangeInProgress","IR        ","400","160","40"
+"90","2144466","175","Primary","Skone & Connors Produce Inc",,"G3-26155(A)","1979-02-09","Inactive","IR        ","2890","1470","420"
+"91","2144475","180","Primary","Liberty Lake Sewer and  Water District",,"G3-26247C","1979-05-17","ChangeInProgress","MU        ","2100","1825",
+"92","2144476","181","Primary","Wolf","Robert","G3-26318","1979-08-03","Inactive","DM IR       ","30","11.6","3"
+"93","2144484","184","Primary","Doebler","John","G3-26477","1980-02-28","Active","IR        ","700","180","60"
+"94","2144485","185","Primary","Blasdel","Noah","G3-26538","1980-04-18","Active","IR        ","900","280","70"
+"95","2144490","186","Primary","Loeber","E","G3-26720","1980-11-14","Active","IR        ","4000","2400","1280"
+"96","2144491","187","Primary","Kudrna","Donald","G3-26736","1980-12-05","Active","ST DM       ","110","3.5",
+"97","2144500","192","Primary","Brinsmead","Arthur","G3-27055","1981-07-09","Active","IR        ","1400","455","130"
+"98","2144501","193","Primary","Eastern Washington Bible Camp Inc",,"G3-27142C","1981-10-22","ChangeInProgress","DM        ","100","120",
+"99","2144509","196","Primary","Wilbur-Ellis Co",,"G3-27251","1982-04-09","Active","CI        ","50","20",
+"100","2144510","197","Primary","Eltopia Properties LLC",,"G3-27254","1982-04-12","Active","DS        ","8.5","1",

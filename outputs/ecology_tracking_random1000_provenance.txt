@@ -1,0 +1,13 @@
+Retrieved UTC: 2026-09-27 04:04:11 UTC
+Service: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/10
+IDs URL: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/10/query?where=1%3D1&returnIdsOnly=true&f=json
+ID population size: 279029
+R random seed: 20260926
+Sample rows: 1000
+Unit sampled: tracking-table OBJECTID rows statewide, NOT unique water rights.
+Raw ID list and each batch response are kept under data/raw.
+Server data can change; cached raw files reproduce this run.
+No owner, legal-holder, irrigation, or county filter was applied.
+Primary party role is not proof of current legal ownership.
+PriorityDate is right seniority, not the date a party acquired the right.
+Do not compute ownership rankings or unique-right counts from these rows.

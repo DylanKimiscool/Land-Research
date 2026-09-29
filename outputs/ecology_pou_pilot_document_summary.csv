@@ -1,0 +1,31 @@
+"OBJECTID","WR_Doc_ID","WaRecPhaseId","PartyRoleTypeCode","PersonLastOrOrganizationNM","PersonFirstNM","WaRecPrimaryNumber","PriorityDate","WaRecProcessStatusTypeCode","PurposeOfUseTypeCodes","InstantaneousQuantity","AnnualVolumeQuantity","IrrigatedAreaQuantity","mapped_pou_feature_count"
+129,2144627,257,"Primary","Ransom","G","G3-24439","1975-04-17","Active","DS IR       ",90,27,5,1
+582,2141529,1153,"Primary","BYRNES E C","","G3-*04755CWRIS","1958-01-06","Active","DS IR       ",30,12,3,1
+891,2141844,1781,"Primary","ROBERTS H G","","G3-*03761CWRIS","1954-09-09","Active","DS IR       ",80,32,8,1
+1513,2141217,2586,"Primary","Welch","Norman","G3-*06186C","1962-02-20","Active","IR        ",92,53.75,21.5,1
+2466,2139714,4027,"Primary","HARRINGTON & DNR","","G3-00232CWRIS","1971-06-22","Active","DS IR       ",90,37.3,8,0
+2662,2139889,4435,"Primary","WISE ROBERT S","","G3-+22041CWRIS","1973-11-02","Active","DS IR       ",20,10,2,1
+2772,2141881,1065,"Primary","GUGLIELMELLI J","","G3-*03882CWRIS","1955-02-18","Active","DS IR       ",100,40,10,1
+2932,2142444,1390,"Primary","Huntley","D","G3-*00992","1948-09-11","Active","IR        ",250,100,25,1
+3146,2141909,1813,"Primary","HUDSON V H","","G3-*03962CWRIS","1955-04-14","Active","IR        ",150,90,30,1
+5424,2138368,6873,"Primary","Hamlin","Warren","G3-24633C","1975-10-11","Active","IR        ",25,4.65,1,1
+5588,2138215,7201,"Primary","CAMPBELL DAVID B","","G3-25151GWRIS","1976-12-22","Active","DS FS IR      ",30,22.1,4,1
+5932,2136302,7433,"Primary","PARKER O B","","S3-*10765CWRIS","1951-10-01","Active","IR        ",2,,125,1
+5975,2137516,7522,"Primary","THALE FRANK LEO","","G3-27454GWRIS","1983-01-28","Active","IR        ",145,11.8,3,1
+6578,2138865,5128,"Primary","Warden Hutterian Brethren c/o Paul Wollman","","G3-21183C","1973-05-22","Active","IR        ",3360,1050,420,1
+6689,2138731,5350,"Primary","VIGIL GERALD D","","G3-22206CWRIS","1973-12-10","Active","DS ST IR      ",50,57.5,20,1
+6809,2136335,8300,"Primary","WAGNER F E","","S3-*10977CWRIS","1952-01-17","Active","IR        ",0.8,,50,1
+6893,2136136,8473,"Primary","COURCHAINE G","","S3-*11818CWRIS","1952-11-05","Active","IR        ",0.6,,45,1
+6915,2135691,8522,"Primary","STEIN JOHN","","S3-*15171JWRIS","1885-01-01","Active","IR DS ST      ",0.4,,30,1
+7409,2135385,9060,"Primary","YOUNG H F","","S3-*18406CWRIS","1964-03-18","Active","FS IR       ",0.11,2,0.5,1
+7962,2138246,6500,"Primary","WOLF DONALD D","","G3-24120CWRIS","1975-03-04","Active","IR        ",200,134,70,1
+7986,2137810,6546,"Primary","Newport School Dist 56","","G3-25971CWRIS","1978-06-08","Active","IR        ",70,19.25,9,1
+8822,2136604,7311,"Primary","KIMM R K","","S3-*08045CWRIS","1947-09-30","Active","IR        ",0.5,,30,1
+9487,2136363,7747,"Primary","WISE L","","S3-*11194CWRIS","1952-03-26","Active","IR        ",1,,50,1
+9655,2135638,8069,"Primary","ARMSTRONG H L","","S3-*14581CWRIS","1957-11-18","Active","IR        ",0.4,80,20,3
+9689,2135780,8140,"Primary","BLY D M","","S3-*15951CWRIS","1960-03-15","Active","IR        ",0.78,260,65,0
+10310,2134089,12194,"Primary","Graham","W","S3-*30047J","1888-01-01","Active","IR IR       ",0.43,0,21.3,1
+11417,2133600,13039,"Primary","HENTGES J","","S3-*42010JWRIS","1905-01-01","Active","IR        ",0.493,,37,1
+12553,2133268,13974,"Primary","CAMERON A M ET AL","","S3-*53019J","1914-01-01","Active","IR        ",0.133,40,10,1
+12939,2128972,14301,"Primary","MCCROSKEY","OWEN B.","G3-001897CL","1939-01-01","Active","DG IR       ",224,88.1,2,1
+14677,2128368,16442,"Primary","NORDHEIM","CARL J.","G3-003440CL","1952-06-01","Active","DG IR ST      ",15,12.02,3,0

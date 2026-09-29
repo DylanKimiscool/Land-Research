@@ -1,0 +1,13 @@
+Retrieved UTC: 2026-09-28 19:23:37 UTC
+Service: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/6
+IDs URL: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/6/query?f=json&returnIdsOnly=true&where=WR_DOC_ID%20IN%20%282144627%2C2141529%2C2141844%2C2141217%2C2139714%2C2139889%2C2141881%2C2142444%2C2141909%2C2138368%2C2138215%2C2136302%2C2137516%2C2138865%2C2138731%2C2136335%2C2136136%2C2135691%2C2135385%2C2138246%2C2137810%2C2136604%2C2136363%2C2135638%2C2135780%2C2134089%2C2133600%2C2133268%2C2128972%2C2128368%29
+Tracking sample input: outputs/ecology_tracking_random1000.csv
+Pilot document count: 30
+Matching mapped polygon features: 29
+Selection: first 30 distinct numeric document IDs among Active tracking rows with token IR.
+Selection order follows saved random sample OBJECTID order; this is a diagnostic pilot.
+Raw ID and attributes JSON are saved; the live service may change after download.
+A tracking-row party name is not verified as the current legal right holder.
+The number of mapped polygons is NOT the number of water rights, parcels, or owners.
+A missing polygon does not establish that the right is invalid or has no place of use.
+No geometry, parcel overlap, ownership or seniority ranking was calculated.

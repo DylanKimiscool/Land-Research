@@ -1,0 +1,12 @@
+Retrieved UTC: 2026-09-28 20:06:19 UTC
+Source service: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/6
+Input attributes: outputs/ecology_pou_pilot_polygon_attributes.csv
+Feature count: 29
+Distinct document IDs: 27
+CRS: WGS 84
+Selection is the exact set of polygon OBJECTIDs saved by script 04.
+GeoJSON batches are preserved in data/raw/ecology_pou_map_pilot.
+Query URLs: https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/6/query?f=geojson&objectIds=57208,57716,57742,57765,57969,58258,59331,77035,77342,77396,77965,78048,78134,78328,78599&outFields=OBJECTID,WR_DOC_ID,WR_Doc_NR&outSR=4326&returnGeometry=true ; https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WR/FeatureServer/6/query?f=geojson&objectIds=79041,133028,133294,133322,133347,133417,133708,133747,134002,134751,134951,135194,163009,163010&outFields=OBJECTID,WR_DOC_ID,WR_Doc_NR&outSR=4326&returnGeometry=true
+WR_Doc_POU_ID is blank in the pilot attributes; OBJECTID is the map feature key.
+A polygon is a mapped place of use, not proof of a legal holder or parcel owner.
+No geometry-to-parcel or ownership join was performed.
